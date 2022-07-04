@@ -5,21 +5,21 @@
     padding: 0;
     border: none;
 }
+.navbar-default {
+    font-size: 5vw;
+    border-color: #e7e7e7;
+    height:5vw;
+}
 
-body {
-    color: #34839C;
+    body {
+    color: #845EC2;
     font-family: 'Comfortaa', cursive;
     background-color: #D9E8EE;
 }
 
 #logo {
-    height: 100px;
-    display: inline-block;
-}
-
-.navbar navbar-default {
-    color: #845EC2;
-
+    height: 7vw;
+    display: block;
 }
 
 nav {
@@ -29,10 +29,19 @@ nav {
 }
 
 .navbar-right {
-
     font-size: 3vw;
     margin-top: 40px;
     margin-right: 20px
+}
+#first-heading{
+    margin-top: 5vw;
+    font-size: 3vw;
+    width: 50vw;
+    height: 10vw;
+    background-color: rgba(91, 93, 205, 0.192);
+    bottom: 30vw;
+    right: 30vw;
+    z-index: 3;
 }
 
 #myCarousel {
@@ -41,31 +50,21 @@ nav {
     overflow: hidden;
 }
 
-#initial-description {
-    text-align: right;
+.container-fluid {
+    color: #34839C;
 }
 
 #cover-text {
-    font-family: 'Comfortaa', cursive;
-    margin: 3vw;
+    text-align: right;
+    color:#845EC2;
+    height: 70%;
 }
 
-.picard {
-    height: 20vw;
-    color: #34839C;
-    margin: 3vw;
+#images {
+    width: 30%;
 }
 
-#leftpicard {
-    height: 23vw;
-
-}
-
-#rightpicard {
-    height: 23vw;
-
-}
-
-#centerpicard {
-    height: 23vw;
+#conversion-title {
+    height: -100px;
+    float:left;
 }
