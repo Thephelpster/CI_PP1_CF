@@ -7,7 +7,9 @@
 }
 
 body {
+    color: #34839C;
     font-family: 'Comfortaa', cursive;
+    background-color: #D9E8EE;
 }
 
 #logo {
@@ -15,20 +17,22 @@ body {
     display: inline-block;
 }
 
-nav {
-    height: 130px;
-    width:100vw
+.navbar navbar-default {
+    color: #845EC2;
+
 }
 
-.navbar-right{
+nav {
+    color: #34839C;
+    height: 130px;
+    width: 100vw
+}
+
+.navbar-right {
+
     font-size: 3vw;
     margin-top: 40px;
-    margin-right:20px
-}
-
-#first-heading {
-    font-family: 'Comfortaa', cursive;
-    margin: 3vw;
+    margin-right: 20px
 }
 
 #myCarousel {
@@ -37,22 +41,31 @@ nav {
     overflow: hidden;
 }
 
+#initial-description {
+    text-align: right;
+}
+
+#cover-text {
+    font-family: 'Comfortaa', cursive;
+    margin: 3vw;
+}
+
 .picard {
     height: 20vw;
-    display:inline-block;
-    margin:3vw;
+    color: #34839C;
+    margin: 3vw;
 }
 
-#leftpicard{
+#leftpicard {
     height: 23vw;
-    
+
 }
 
-#rightpicard{
+#rightpicard {
     height: 23vw;
-    
+
 }
 
-#centerpicard{
+#centerpicard {
     height: 23vw;
 }
