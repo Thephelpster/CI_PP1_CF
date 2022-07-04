@@ -26,8 +26,33 @@ nav {
     margin-right:20px
 }
 
+#first-heading {
+    font-family: 'Comfortaa', cursive;
+    margin: 3vw;
+}
+
 #myCarousel {
     height: 50vw;
     max-width: 100vw;
     overflow: hidden;
+}
+
+.picard {
+    height: 20vw;
+    display:inline-block;
+    margin:3vw;
+}
+
+#leftpicard{
+    height: 23vw;
+    
+}
+
+#rightpicard{
+    height: 23vw;
+    
+}
+
+#centerpicard{
+    height: 23vw;
 }
