@@ -5,14 +5,15 @@
     padding: 0;
     border: none;
 }
+
 .navbar-default {
     font-size: 5vw;
     background-color: #D9E8EE;
     border-color: #e7e7e7;
-    height:5vw;
+    height: 5vw;
 }
 
-    body {
+body {
     color: #845EC2;
     font-family: 'Comfortaa', cursive;
     background-color: #D9E8EE;
@@ -34,7 +35,8 @@ nav {
     margin-top: 40px;
     margin-right: 20px
 }
-#first-heading{
+
+#first-heading {
     font-weight: bold;
     color: #b3d0d9;
     position: relative;
@@ -59,15 +61,9 @@ nav {
     color: #34839C;
 }
 
-#cover-text {
-    text-align: right;
-    color:#845EC2;
-    height: 70%;
-}
-
 #images {
     width: 30%;
-    margin:1.5vw;
+    margin: 1.5vw;
     border-radius: 1vw;
 }
 
@@ -77,10 +73,28 @@ nav {
     left: 5vw;
     bottom: 11vw;
     font-weight: bold;
+    text-align: center;
     margin-top: 5vw;
     font-size: 3vw;
     width: 17vw;
     height: 3.5vw;
     background-color: rgba(107, 107, 184, 0.662);
-    
+}
+
+#workshop {
+    width: 100%;
+}
+
+#cover-text {
+    color: #b3d0d9;
+    position: relative;
+    left: 20vw;
+    bottom: 20vw;
+    font-weight: bold;
+    margin-top: 5vw;
+    font-size: 1.5vw;
+    text-align: center;
+    width: 75vw;
+    height: 14vw;
+    background-color: rgba(107, 107, 184, 0.662);
 }
