@@ -41,7 +41,6 @@ nav {
     background-color: rgba(91, 93, 205, 0.192);
     bottom: 30vw;
     right: 30vw;
-    z-index: 3;
 }
 
 #myCarousel {
@@ -62,9 +61,20 @@ nav {
 
 #images {
     width: 30%;
+    margin:1.5vw;
+    border-radius: 1vw;
 }
 
 #conversion-title {
-    height: -100px;
-    float:left;
+    color: #b3d0d9;
+    position: relative;
+    left: 5vw;
+    bottom: 11vw;
+    font-weight: bold;
+    margin-top: 5vw;
+    font-size: 3vw;
+    width: 17vw;
+    height: 3.5vw;
+    background-color: rgba(96, 96, 140, 0.514);
+    
 }
