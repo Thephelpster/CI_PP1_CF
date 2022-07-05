@@ -141,3 +141,16 @@ nav {
 #submit {
     margin: 1vw;
 }
+
+footer {
+    font-size: 6vw;
+    text-align: center;
+    height: 6vw;
+}
+
+.socials>li {
+    display: inline;
+    margin-left: 5vw;
+    margin-right: 5vw;
+
+}
