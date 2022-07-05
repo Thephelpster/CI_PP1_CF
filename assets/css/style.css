@@ -104,15 +104,40 @@ nav {
 #newsletter-box {
     color: #b3d0d9;
     position: relative;
-    bottom: 8vw;
-    height: 8vw;
+    bottom: 10vw;
+    height: 14vw;
+    width: 100vw;
     background-color: rgba(107, 107, 184, 0.662);
+    padding-top: 4vw;
 }
 
 #newsletter {
+    position: relative;
     font-size: 3vw;
+    left: 3vw;
 }
 
 #newsletter-info {
     font-size: 1.5vw;
+
+}
+
+#newsletter-form {
+    font-size: 1.5vw;
+    text-align: center;
+    float: right;
+    color: #b3d0d9;
+    position: relative;
+    bottom: 8vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    height: 20vw;
+    width: 20vw;
+    background-color: rgb(107, 107, 184);
+    margin-right: 9vw;
+
+}
+
+#submit {
+    margin: 1vw;
 }
