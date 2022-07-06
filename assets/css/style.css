@@ -154,3 +154,23 @@ footer {
     margin-right: 5vw;
 
 }
+
+/* gallery */
+
+#campervan-selection {
+    width:100vw;
+    margin-top: 5vw;
+}
+
+#background-infomation {
+    font-size: 1.5vw;
+    color: #b3d0d9;
+    position: relative;
+    bottom: 18vw;
+    left: 3vw;
+    padding-top: 0.5vw;
+    padding-bottom: 1vw;
+    height: 14vw;
+    width: 60vw;
+    background-color: rgba(107, 107, 184, 0.662);
+}
