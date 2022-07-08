@@ -191,3 +191,11 @@ footer {
     width: 60vw;
     background-color: rgba(107, 107, 184, 0.662);
 }
+
+#video-box {
+    text-align: center;
+}
+
+#camper-video {
+    width: 75vw;
+}
