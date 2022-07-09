@@ -21,17 +21,19 @@ body {
 
 #logo {
     height: 7vw;
-    display: block;
+    position: relative;
+
 }
 
 nav {
     color: #34839C;
-    height: 130px;
-    width: 100vw
+    height: 20vw;
+    width: 100vw;
+    color: #845EC2;
 }
 
 .navbar-right {
-    font-size: 3vw;
+    font-size: 2.5vw;
     margin-top: 40px;
     margin-right: 20px
 }
@@ -53,9 +55,8 @@ nav {
     top: 7vw;
     margin-top: 5vw;
     font-size: 3vw;
-    font-weight: bold;
     text-align: center;
-    width: 55vw;
+    width: 57vw;
     height: 3.5vw;
     background-color: rgba(107, 107, 184, 0.662);
     z-index: 3;
@@ -192,8 +193,23 @@ footer {
     background-color: rgba(107, 107, 184, 0.662);
 }
 
+#staff {
+    font-size: 3vw;
+    color: #b3d0d9;
+    position: relative;
+    bottom: 10vw;
+    text-align: center;
+    left: 3vw;
+    padding-top: 0.5vw;
+    padding-bottom: 1vw;
+    height: 4vw;
+    width: 25vw;
+    background-color: rgba(107, 107, 184, 0.662);
+}
+
 #video-box {
     text-align: center;
+    bottom: 50vw
 }
 
 #camper-video {
