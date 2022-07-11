@@ -24,6 +24,9 @@ body {
     position: relative;
 
 }
+hr {
+    background-color: #34839C;
+}
 
 nav {
     color: #34839C;
@@ -259,4 +262,28 @@ footer {
 
 #camper-video {
     width: 75vw;
+}
+
+/* conversions page */
+
+#inside-conversion {
+    position: relative;
+    top: 4vw;
+    width: 30%;
+    margin: 1.5vw;
+    border-radius: 1vw;
+}
+
+#picard-header {
+    color: #b3d0d9;
+    position: relative;
+    left: 60vw;
+    top:2vw;
+    text-align: center;
+    margin-top: 5vw;
+    font-size: 3vw;
+    width: 37vw;
+    height: 4vw;
+    background-color: rgba(107, 107, 184, 0.662);
+    padding: 0.5%;
 }
