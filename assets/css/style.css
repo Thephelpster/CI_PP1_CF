@@ -24,6 +24,7 @@ body {
     position: relative;
 
 }
+
 hr {
     background-color: #34839C;
 }
@@ -278,7 +279,6 @@ footer {
     color: #b3d0d9;
     position: relative;
     left: 60vw;
-    top:2vw;
     text-align: center;
     margin-top: 5vw;
     font-size: 3vw;
@@ -286,18 +286,61 @@ footer {
     height: 4vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 0.5%;
+    border-radius: 1vw;
 }
 
-#detail-inside {
-    width: 30%;
+#picard-details {
+    color: #b3d0d9;
+    margin-top: 5vw;
+    font-size: 1.5vw;
+    width: 43vw;
+    height: 22vw;
+    background-color: rgba(107, 107, 184, 0.662);
+    padding: 0.5%;
+    position: relative;
+    bottom: 80vw;
+    left:50vw;
+    border-radius: 1vw;
 }
 
 #demo-video {
-    width: 30%;
+    width: 43vw;
+    position: relative;
+    left: 50vw;
+    bottom: 25vw;
+}
+
+#section42 {
+    height:20vw;
+}
+
+#picard-continued {
+    color: #b3d0d9;
+    margin-top: 5vw;
+    font-size: 1.5vw;
+    width: 80vw;
+    height: 12vw;
+    background-color: rgba(107, 107, 184, 0.662);
+    padding: 0.5%;
+    position: relative;
+    bottom: 52vw;
+    left: 10vw;
+    border-radius: 1vw;
 }
 
 #myCarousel2 {
-    width: 30%;
+    width: 40vw;
     position: relative;
-    left: 5vw;
+    left: 3vw;
+}
+
+#camper-layout {
+    width: 40vw;
+    position: relative;
+    left:7vw;
+    margin: 1.5vw;
+}
+
+#layout-div {
+    height:20vw;
 }
