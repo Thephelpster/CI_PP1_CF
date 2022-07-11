@@ -287,3 +287,17 @@ footer {
     background-color: rgba(107, 107, 184, 0.662);
     padding: 0.5%;
 }
+
+#detail-inside {
+    width: 30%;
+}
+
+#demo-video {
+    width: 30%;
+}
+
+#myCarousel2 {
+    width: 30%;
+    position: relative;
+    left: 5vw;
+}
