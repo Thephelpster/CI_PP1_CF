@@ -67,7 +67,7 @@ nav {
     padding: 1%;
 }
 
-#images {
+.images {
     position: relative;
     top: 4vw;
     width: 30%;
@@ -320,7 +320,7 @@ footer {
     width: 75vw;
 }
 
-#covid-filming {
+.covid-filming {
     width: 45vw;
     position: relative;
     padding: 1%;
@@ -330,7 +330,7 @@ footer {
 
 /* conversions page */
 
-#inside-conversion {
+.inside-conversion {
     position: relative;
     top: 4vw;
     width: 30%;
@@ -374,7 +374,7 @@ footer {
     bottom: 25vw;
 }
 
-#section31 {
+.section31 {
     height: 20vw;
 }
 
@@ -399,7 +399,7 @@ footer {
     left: 3vw;
 }
 
-#camper-layout {
+.camper-layout {
     width: 40vw;
     position: relative;
     left: 7vw;
