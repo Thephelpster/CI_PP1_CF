@@ -152,7 +152,7 @@ input[type=submit] {
     background-color: #b3d0d9;
     border-radius: 1vw;
     color: rgb(107, 107, 184);
-    
+
 }
 
 footer {
@@ -304,7 +304,7 @@ footer {
     padding: 0.5%;
     position: relative;
     bottom: 80vw;
-    left:50vw;
+    left: 50vw;
     border-radius: 1vw;
 }
 
@@ -316,7 +316,7 @@ footer {
 }
 
 #section31 {
-    height:20vw;
+    height: 20vw;
 }
 
 #picard-continued {
@@ -342,18 +342,18 @@ footer {
 #camper-layout {
     width: 40vw;
     position: relative;
-    left:7vw;
+    left: 7vw;
     margin: 1.5vw;
 }
 
 #layout-div {
-    height:20vw;
+    height: 20vw;
 }
 
 /*contact page*/
 
-#white-camper{
-    width:100vw;
+#white-camper {
+    width: 100vw;
     position: relative;
     top: 3vw;
 }
@@ -428,7 +428,7 @@ footer {
     padding: 0.5%;
     position: relative;
     left: 3vw;
-    bottom:23vw;
+    bottom: 23vw;
     border-radius: 1vw;
     list-style-type: none;
 }
@@ -446,14 +446,46 @@ footer {
     height: 0vw;
 }
 
-#section32{
+#section32 {
     height: 40vw;
 }
 
 #way-in {
-    width: 37vw;
+    width: 41vw;
     position: relative;
-    left:3vw;
+    left: 2vw;
     bottom: 1vw;
     border-radius: 1vw;
+}
+
+#opening-times {
+    color: #b3d0d9;
+    margin-top: 5vw;
+    font-size: 1.5vw;
+    width: 20vw;
+    text-align: center;
+    height: 7vw;
+    background-color: rgba(107, 107, 184, 0.662);
+    padding: 0.5%;
+    position: relative;
+    left: 77vw;
+    bottom: 26vw;
+    border-radius: 1vw;
+    list-style-type: none;
+}
+
+#contact-us-form {
+    color: #b3d0d9;
+    margin-top: 5vw;
+    font-size: 1.5vw;
+    width: 29vw;
+    text-align: right;
+    height: 20vw;
+    background-color: rgba(107, 107, 184, 0.662);
+    padding: 1%;
+    position: relative;
+    left: 45vw;
+    bottom: 38vw;
+    border-radius: 1vw;
+    list-style-type: none;
 }
