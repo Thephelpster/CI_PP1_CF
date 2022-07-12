@@ -353,15 +353,16 @@ footer {
 }
 
 #picard-details {
+    font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
     font-size: 1.5vw;
     width: 43vw;
-    height: 22vw;
+    height: 18vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 0.5%;
     position: relative;
-    bottom: 80vw;
+    bottom: 78vw;
     left: 50vw;
     border-radius: 1vw;
 }
@@ -378,6 +379,7 @@ footer {
 }
 
 #picard-continued {
+    font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
     font-size: 1.5vw;
@@ -386,7 +388,7 @@ footer {
     background-color: rgba(107, 107, 184, 0.662);
     padding: 0.5%;
     position: relative;
-    bottom: 52vw;
+    bottom: 48vw;
     left: 10vw;
     border-radius: 1vw;
 }
@@ -432,6 +434,7 @@ footer {
 }
 
 #address {
+    font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
     font-size: 1.5vw;
@@ -446,6 +449,7 @@ footer {
 }
 
 #number {
+    font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
     font-size: 1.5vw;
@@ -461,6 +465,7 @@ footer {
 }
 
 #number2 {
+    font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
     font-size: 1.5vw;
@@ -476,6 +481,7 @@ footer {
 }
 
 #email1 {
+    font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
     font-size: 1.5vw;
@@ -517,6 +523,7 @@ footer {
 }
 
 #opening-times {
+    font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
     font-size: 1.5vw;
@@ -533,6 +540,7 @@ footer {
 }
 
 #contact-us-form {
+    font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
     font-size: 1.5vw;
@@ -557,6 +565,7 @@ footer {
 }
 
 #gallery-title {
+    font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
     font-size: 1.5vw;
@@ -597,11 +606,12 @@ footer {
 }
 
 #janie-review {
+    font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
     font-size: 1.5vw;
     width: 33vw;
-    height: 44vw;
+    height: 38vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
     position: relative;
@@ -639,11 +649,12 @@ footer {
 }
 
 #rob-review {
+    font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
     font-size: 1.5vw;
     width: 33vw;
-    height: 40vw;
+    height: 35vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
     position: relative;
@@ -680,11 +691,12 @@ footer {
 }
 
 #john-review {
+    font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
     font-size: 1.5vw;
     width: 33vw;
-    height: 51vw;
+    height: 46vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
     position: relative;
