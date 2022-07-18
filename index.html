@@ -33,7 +33,7 @@
       <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav navbar-right">
           <li><a href="index.html">Home</a></li>
-          <li class="dropdown"><a href="about.html">About</a></li>
+          <li><a href="about.html">About</a></li>
           <li><a href="conversions.html">Conversions</a></li>
           <li><a href="contact.html">Contact</a></li>
           <li><a href="gallery.html">Gallery</a></li>
@@ -105,32 +105,33 @@
       </div>
     </div>
   </section>
-  <section>
+  <section id="section-34">
     <div id="newsletter-box">
       <h2 id="newsletter">Newsletter</h2>
       <p id="newsletter-info">
         Sign up to our newsletter for all the latest campervans we have available!
       </p>
-      <form action="https://formdump.codeinstitute.net/" method="post" id="newsletter-form">
-        <fieldset>
-          <div>
-            <label for="first">First</label>
-            <input type="text" name="first-name" required id="first" placeholder="First Name">
-          </div>
-          <div>
-            <label for="last">Last</label>
-            <input type="text" name="last-name" required id="last" placeholder="Last Name">
-          </div>
-          <div>
-            <label for="email">Email</label>
-            <input type="email" name="email" required id="email" placeholder="Email Address">
-          </div>
-          <div id="submit">
-            <input type="submit" value="Submit">
-          </div>
-        </fieldset>
-      </form>
     </div>
+    <form action="https://formdump.codeinstitute.net/" method="post" id="newsletter-form">
+      <fieldset>
+        <div>
+          <label for="first" class="input-form">First</label>
+          <input type="text" class="input-form-box" name="first-name" required id="first" placeholder="First Name">
+        </div>
+        <div>
+          <label for="last" class="input-form">Last</label>
+          <input type="text"class="input-form-box" name="last-name" required id="last" placeholder="Last Name">
+        </div>
+        <div>
+          <label for="email" class="input-form">Email</label>
+          <input type="email" class="input-form-box" name="email" required id="email" placeholder="Email Address">
+        </div>
+        <div id="submit">
+          <input type="submit" value="Submit">
+        </div>
+      </fieldset>
+    </form>
+
   </section>
   <section>
     <footer>
