@@ -100,7 +100,8 @@ body {
 .images {
     position: relative;
     top: 4vw;
-    width: 30%;
+    left: 1vw;
+    width: 28vw;
     margin: 1.5vw;
     border-radius: 1vw;
 }
@@ -363,7 +364,8 @@ footer {
 .inside-conversion {
     position: relative;
     top: 4vw;
-    width: 30%;
+    left:1vw;
+    width: 28vw;
     margin: 1.5vw;
     border-radius: 1vw;
 }
