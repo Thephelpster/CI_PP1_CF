@@ -776,3 +776,19 @@ footer {
     bottom: 60vw;
     border-radius: 1vw;
 }
+
+#image-404{
+    width: 100vw;
+}
+
+.return-home{
+    font-size: 4vw;
+    position: relative;
+    bottom:40vw;
+    text-align: center;
+    left:5vw;
+    width: 20vw;
+    background-color: #b3d0d9;
+    border-radius: 1vw;
+    color: rgb(107, 107, 184);
+}
