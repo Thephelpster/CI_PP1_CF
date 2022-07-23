@@ -508,76 +508,48 @@ footer {
     border-radius: 1vw;
 }
 
-#address {
-    font-family: 'Nanum Gothic', sans-serif;
+#address{
     color: #b3d0d9;
-    margin-top: 5vw;
-    font-size: 1.5vw;
-    width: 18vw;
-    height: 16vw;
-    background-color: rgba(107, 107, 184, 0.662);
-    padding: 0.5%;
     position: relative;
-    left: 3vw;
-    border-radius: 1vw;
-    list-style-type: none;
+    left: 1.5vw;
+    top: 3vw;
+    margin-top: 5vw;
+    font-size: 2vw;
+    width: 20vw;
+    height: 8vw;
+    background-color: rgba(107, 107, 184, 0.662);
 }
 
-#number {
-    font-family: 'Nanum Gothic', sans-serif;
+#contact-info{
     color: #b3d0d9;
-    margin-top: 5vw;
-    font-size: 1.5vw;
-    width: 15vw;
-    height: 5vw;
-    background-color: rgba(107, 107, 184, 0.662);
-    padding: 0.5%;
     position: relative;
-    left: 25vw;
-    bottom: 20vw;
-    border-radius: 1vw;
-    list-style-type: none;
-}
-
-#number2 {
-    font-family: 'Nanum Gothic', sans-serif;
-    color: #b3d0d9;
-    margin-top: 5vw;
-    font-size: 1.5vw;
-    width: 15vw;
-    height: 5vw;
-    background-color: rgba(107, 107, 184, 0.662);
-    padding: 0.5%;
-    position: relative;
-    left: 25vw;
+    left: 23vw;
     bottom: 22vw;
-    border-radius: 1vw;
-    list-style-type: none;
+    margin-top: 5vw;
+    font-size: 2vw;
+    width: 20vw;
+    height: 8vw;
+    background-color: rgba(107, 107, 184, 0.662);
 }
 
-#email1 {
-    font-family: 'Nanum Gothic', sans-serif;
+#email-table{
     color: #b3d0d9;
-    margin-top: 5vw;
-    font-size: 1.5vw;
-    width: 37vw;
-    text-align: center;
-    height: 5vw;
-    background-color: rgba(107, 107, 184, 0.662);
-    padding: 0.5%;
     position: relative;
-    left: 3vw;
-    bottom: 23vw;
-    border-radius: 1vw;
-    list-style-type: none;
+    left: 1.5vw;
+    bottom: 25vw;
+    margin-top: 5vw;
+    font-size: 2vw;
+    width: 41.5vw;
+    height: 8vw;
+    background-color: rgba(107, 107, 184, 0.662);
 }
 
 #gmap_canvas {
-    width: 50vw;
+    width: 53vw;
     height: 33vw;
     position: relative;
     left: 45vw;
-    bottom: 57vw;
+    bottom: 63vw;
     border-radius: 1vw;
 }
 
@@ -593,40 +565,23 @@ footer {
     width: 41vw;
     position: relative;
     left: 2vw;
-    bottom: 1vw;
+    top: 10vw;
     border-radius: 1vw;
-}
-
-#opening-times {
-    font-family: 'Nanum Gothic', sans-serif;
-    color: #b3d0d9;
-    margin-top: 5vw;
-    font-size: 1.5vw;
-    width: 20vw;
-    text-align: center;
-    height: 7vw;
-    background-color: rgba(107, 107, 184, 0.662);
-    padding: 0.5%;
-    position: relative;
-    left: 77vw;
-    bottom: 26vw;
-    border-radius: 1vw;
-    list-style-type: none;
 }
 
 #contact-us-form {
     font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
-    font-size: 1.5vw;
-    width: 29vw;
+    font-size: 2vw;
+    width: 53vw;
     text-align: right;
     height: 20vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
     position: relative;
     left: 45vw;
-    bottom: 38vw;
+    bottom: 15vw;
     border-radius: 1vw;
     list-style-type: none;
 }
