@@ -49,85 +49,77 @@
         <h2 id="address-heading">
             Address and how to get in contact
         </h2>
-        <table id="address">
-            <tr>
-                <th>Address:</th>
-            </tr>
-            <td>Unit 5</td>
-            <tr>
-                <td>Canterbury Works</td>
-            </tr>
-            <tr>
-                <td>18 Ashchurch Road</td>
-            </tr>
-            <tr>
-                <td>Tewkesbury</td>
-            </tr>
-            <tr>
-                <td>Gloucestershire</td>
-            </tr>
-            <tr>
-                <td>GL20 8BT</td>
-            </tr>
+        <div id="info-box">
+            <table id="address">
+                <tr>
+                    <th>Address:</th>
+                </tr>
+                <td>Unit 5</td>
+                <tr>
+                    <td>Canterbury Works</td>
+                </tr>
+                <tr>
+                    <td>18 Ashchurch Road</td>
+                </tr>
+                <tr>
+                    <td>Tewkesbury</td>
+                </tr>
+                <tr>
+                    <td>Gloucestershire</td>
+                </tr>
+                <tr>
+                    <td>GL20 8BT</td>
+                </tr>
 
-        </table>
-        <table id="contact-info">
-            <tr>
-                <th>Mobile Number:</th>
-            </tr>
-            <tr>
-                <td>07496 833645</td>
-            </tr>
-            <tr>
-                <th>Landline Number:</th>
-            </tr>
-            <tr>
-                <td>01684 298279</td>
-            </tr>
-            <tr>
-                <th>Opening Times</th>
-            </tr>
-            <tr>
-                <td>Mon-Fri 08:00-17:00</td>
-            </tr>
-            <tr>
-                <td>Sat 09:00-13:00</td>
-            </tr>
-        </table>
-        <table id="email-table">
-            <tr>
-                <th>Email Address:</th>
-            </tr>
-            <tr>
-                <td>sales@thecampervanfactory.com</td>
-            </tr>
-        </table>
-
-        <div class="mapouter">
-            <div class="gmap_canvas"><iframe id="gmap_canvas"
-                    src="https://maps.google.com/maps?q=the%20campervan%20factory&t=&z=17&ie=UTF8&iwloc=&output=embed"></iframe>
-            </div>
+            </table>
+            <table id="contact-info">
+                <tr>
+                    <th>Mobile Number:</th>
+                </tr>
+                <tr>
+                    <td>07496 833645</td>
+                </tr>
+                <tr>
+                    <th>Landline Number:</th>
+                </tr>
+                <tr>
+                    <td>01684 298279</td>
+                </tr>
+                <tr>
+                    <th>Opening Times</th>
+                </tr>
+                <tr>
+                    <td>Mon-Fri 08:00-17:00</td>
+                </tr>
+                <tr>
+                    <td>Sat 09:00-13:00</td>
+                </tr>
+            </table>
+            <table id="email-table">
+                <tr>
+                    <th>Email Address:</th>
+                </tr>
+                <tr>
+                    <td>sales@thecampervanfactory.com</td>
+                </tr>
+            </table>
         </div>
-    </section>
-    <section>
-        <div class="section32">
-            <img src="./assets/images/wayin.jpg" id="way-in" alt="Directions from main road">
-        </div>
-        <div class="section31">
-
+                <div>
             <form action="https://formdump.codeinstitute.net/" method="post" id="contact-us-form">
                 <fieldset>
                     <div>
                         <label for="name">Full name:</label>
-                        <input type="text" name="name" required id="name" placeholder="John Smith" style="width:40vw;">
+                        <input type="text" name="name" required id="name" placeholder="John Smith"
+                            style="width:60vw; padding: 0.5vw; margin-left: 4vw;">
                     </div>
                     <div>
                         <label for="email">Email:</label>
-                        <input type="email" name="email" required id="email" placeholder="johnsmith@gmail.com" style="width:40vw;">
+                        <input type="email" name="email" required id="email" placeholder="johnsmith@gmail.com"
+                            style="width:60vw; padding: 0.5vw; margin: 1vw; margin-left: 12vw;">
                     </div>
                     <div>
-                        <textarea name="message" required id="message" placeholder="Type your message here" cols="48"
-                            rows="4"></textarea>
+                        <textarea name="message" required id="message" placeholder="Type your message here" cols="43"
+                            rows="4" style="margin-left: 3vw; " ></textarea>
                     </div>
                     <div id="submit">
                         <input type="submit" value="Submit">
@@ -135,6 +127,13 @@
                 </fieldset>
             </form>
         </div>
+    </section>
+    <section>
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2456.597657597365!2d-2.141746684806933!3d51.99598658268339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48711d515ee9469f%3A0x6fff73a344e53db3!2sThe%20Campervan%20Factory!5e0!3m2!1sen!2suk!4v1658656547804!5m2!1sen!2suk"
+            id="map" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <img src="./assets/images/wayin.jpg" id="way-in" alt="Directions from main road">
     </section>
     <section>
         <footer>
