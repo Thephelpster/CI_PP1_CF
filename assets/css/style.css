@@ -598,13 +598,13 @@ footer {
     font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
-    font-size: 1.5vw;
+    font-size: 2vw;
     width: 29vw;
-    height: 8vw;
+    height: 14vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
     position: relative;
-    left: 70vw;
+    left: 2vw;
     bottom: 44vw;
 }
 
@@ -615,14 +615,14 @@ footer {
 #janie-1 {
     position: relative;
     left: 40vw;
-    bottom: 5vw;
+    bottom: 12vw;
     border-radius: 1vw;
     width: 35vw;
 }
 
 #janie-2 {
     position: relative;
-    left: 29vw;
+    left: 25vw;
     top: 7vw;
     border-radius: 1vw;
     width: 35vw;
@@ -639,14 +639,14 @@ footer {
     font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
-    font-size: 1.5vw;
+    font-size: 2vw;
     width: 33vw;
-    height: 38vw;
+    height: 67vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
     position: relative;
     left: 3vw;
-    bottom: 55vw;
+    bottom: 68vw;
     border-radius: 1vw;
 }
 
@@ -682,14 +682,14 @@ footer {
     font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
-    font-size: 1.5vw;
+    font-size: 2vw;
     width: 33vw;
-    height: 35vw;
+    height: 61vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
     position: relative;
     left: 65vw;
-    bottom: 20vw;
+    bottom: 30vw;
     border-radius: 1vw;
 }
 
@@ -700,7 +700,7 @@ footer {
 #john-1 {
     position: relative;
     left: 40vw;
-    bottom: 10vw;
+    bottom: 6vw;
     border-radius: 1vw;
     width: 35vw;
 }
@@ -724,14 +724,14 @@ footer {
     font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
-    font-size: 1.5vw;
+    font-size: 2vw;
     width: 33vw;
-    height: 46vw;
+    height: 67vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
     position: relative;
-    left: 3vw;
-    bottom: 60vw;
+    left: 4vw;
+    bottom: 68vw;
     border-radius: 1vw;
 }
 
