@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Nanum+Gothic&display=swap');
 
+/* all page applicable */
+
 * {
     margin: 0;
     padding: 0;
     border: none;
-
 }
 
 body {
@@ -17,8 +18,7 @@ body {
 #logo {
     height: 7vw;
     position: relative;
-    top:1.5vw;
-
+    top: 1.5vw;
 }
 
 #myNavbar {
@@ -29,7 +29,7 @@ body {
 }
 
 .navbar-right {
-    font-size: 3vw;   
+    font-size: 3vw;
     margin-top: 40px;
     margin-right: 20px;
     background-color: #D9E8EE;
@@ -79,6 +79,21 @@ body {
 .navbar-collapse.in {
     overflow: visible;
 }
+
+footer {
+    font-size: 6vw;
+    text-align: center;
+    height: 6vw;
+}
+
+.socials>li {
+    display: inline;
+    margin-left: 5vw;
+    margin-right: 5vw;
+
+}
+
+/*index.html*/
 
 #myCarousel {
     height: 50vw;
@@ -144,7 +159,7 @@ body {
     text-align: center;
     width: 75vw;
     height: 25vw;
-    background-color:rgba(107, 107, 184, 0.662);
+    background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
 }
 
@@ -181,7 +196,7 @@ body {
     left: 43vw;
     height: 33vw;
     width: 50vw;
-    background-color:rgba(107, 107, 184, 0.662);
+    background-color: rgba(107, 107, 184, 0.662);
 }
 
 .input-form {
@@ -189,7 +204,7 @@ body {
     border: 1vw;
     margin-top: 3vw;
     padding-left: 1vw;
-    color:#D9E8EE;
+    color: #D9E8EE;
 }
 
 .input-form-box {
@@ -197,7 +212,7 @@ body {
     border: 1vw;
     margin-top: 3vw;
     padding-left: 1vw;
-    color:rgb(107, 107, 184);
+    color: rgb(107, 107, 184);
 }
 
 input[type=submit] {
@@ -209,7 +224,7 @@ input[type=submit] {
     color: rgb(107, 107, 184);
 }
 
-input:hover{
+input:hover {
     background-color: rgb(107, 107, 184);
     color: #D9E8EE;
 }
@@ -218,20 +233,7 @@ input:hover{
     height: 25vw;
 }
 
-footer {
-    font-size: 6vw;
-    text-align: center;
-    height: 6vw;
-}
-
-.socials>li {
-    display: inline;
-    margin-left: 5vw;
-    margin-right: 5vw;
-
-}
-
-/* about */
+/* about.html */
 
 #campervan-selection {
     width: 100vw;
@@ -244,7 +246,7 @@ footer {
     color: #b3d0d9;
     position: relative;
     left: 3vw;
-    top:18vw;
+    top: 18vw;
     padding-top: 0.5vw;
     padding-bottom: 1vw;
     height: 8vw;
@@ -421,7 +423,7 @@ footer {
     margin-bottom: 5vw;
 }
 
-/* conversions page */
+/* conversions.html */
 
 #picard-header {
     color: #b3d0d9;
@@ -429,7 +431,7 @@ footer {
     left: 48vw;
     text-align: center;
     margin-top: 5vw;
-    bottom:4vw;
+    bottom: 4vw;
     font-size: 4.5vw;
     width: 45vw;
     height: 5.5vw;
@@ -441,7 +443,7 @@ footer {
 .inside-conversion {
     position: relative;
     left: 1vw;
-    bottom:3vw;
+    bottom: 3vw;
     width: 28vw;
     margin: 1vw;
     border-radius: 1vw;
@@ -505,7 +507,7 @@ footer {
     height: 20vw;
 }
 
-/*contact page*/
+/* contact.html */
 
 #white-camper {
     width: 100vw;
@@ -528,7 +530,7 @@ footer {
     border-radius: 1vw;
 }
 
-#address{
+#address {
     color: #b3d0d9;
     position: relative;
     left: 5vw;
@@ -539,7 +541,7 @@ footer {
     height: 8vw;
 }
 
-#contact-info{
+#contact-info {
     color: #b3d0d9;
     position: relative;
     left: 55vw;
@@ -550,7 +552,7 @@ footer {
     height: 8vw;
 }
 
-#email-table{
+#email-table {
     color: #b3d0d9;
     position: relative;
     left: 15vw;
@@ -561,7 +563,7 @@ footer {
     height: 8vw;
 }
 
-#info-box{
+#info-box {
     background-color: rgba(107, 107, 184, 0.662);
     height: 60vw;
     width: 100vw;
@@ -580,7 +582,7 @@ footer {
     list-style-type: none;
 }
 
-#map{
+#map {
     position: relative;
     width: 100vw;
     height: 40vw;
@@ -595,7 +597,7 @@ footer {
     border-radius: 1vw;
 }
 
-/* gallery page */
+/* gallery.html */
 
 #silver-campervan {
     width: 100vw;
@@ -744,16 +746,18 @@ footer {
     border-radius: 1vw;
 }
 
-#image-404{
+/* 404.html */
+
+#image-404 {
     width: 100vw;
 }
 
-.return-home{
+.return-home {
     font-size: 4vw;
     position: relative;
-    bottom:20vw;
+    bottom: 20vw;
     text-align: center;
-    left:5vw;
+    left: 5vw;
     width: 20vw;
     background-color: #b3d0d9;
     border-radius: 1vw;
@@ -761,7 +765,7 @@ footer {
     text-decoration: none;
 }
 
-.return-home:hover{
+.return-home:hover {
     background-color: rgb(107, 107, 184);
     color: #D9E8EE;
     text-decoration: none;
