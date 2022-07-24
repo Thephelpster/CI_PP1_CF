@@ -144,7 +144,7 @@ body {
     text-align: center;
     width: 75vw;
     height: 25vw;
-    background-color:rgb(107, 107, 184);
+    background-color:rgba(107, 107, 184, 0.662);
     padding: 1%;
 }
 
@@ -153,7 +153,7 @@ body {
     position: relative;
     bottom: 10vw;
     height: 25vw;
-    width: 100vw;
+    width: 43vw;
     background-color: rgba(107, 107, 184, 0.662);
 }
 
@@ -181,7 +181,7 @@ body {
     left: 43vw;
     height: 33vw;
     width: 50vw;
-    background-color: rgb(107, 107, 184);
+    background-color:rgba(107, 107, 184, 0.662);
 }
 
 .input-form {
@@ -197,7 +197,7 @@ body {
     border: 1vw;
     margin-top: 3vw;
     padding-left: 1vw;
-    color: #845EC2;
+    color:rgb(107, 107, 184);
 }
 
 input[type=submit] {
@@ -207,6 +207,11 @@ input[type=submit] {
     background-color: #b3d0d9;
     border-radius: 1vw;
     color: rgb(107, 107, 184);
+}
+
+input:hover{
+    background-color: rgb(107, 107, 184);
+    color: #D9E8EE;
 }
 
 #section-34 {
@@ -231,6 +236,21 @@ footer {
 #campervan-selection {
     width: 100vw;
     margin-top: 5vw;
+}
+
+#about-title {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 5vw;
+    color: #b3d0d9;
+    position: relative;
+    left: 3vw;
+    top:18vw;
+    padding-top: 0.5vw;
+    padding-bottom: 1vw;
+    height: 8vw;
+    width: 18vw;
+    background-color: rgba(107, 107, 184, 0.662);
+    padding: 1%;
 }
 
 #background-infomation {
