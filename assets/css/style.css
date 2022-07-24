@@ -751,11 +751,18 @@ footer {
 .return-home{
     font-size: 4vw;
     position: relative;
-    bottom:40vw;
+    bottom:20vw;
     text-align: center;
     left:5vw;
     width: 20vw;
     background-color: #b3d0d9;
     border-radius: 1vw;
     color: rgb(107, 107, 184);
+    text-decoration: none;
+}
+
+.return-home:hover{
+    background-color: rgb(107, 107, 184);
+    color: #D9E8EE;
+    text-decoration: none;
 }
