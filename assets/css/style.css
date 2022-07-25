@@ -219,14 +219,14 @@ input[type=submit] {
     margin: 1vw;
     font-size: 3vw;
     width: 13vw;
-    background-color: #b3d0d9;
+    background-color: #3b197a;
     border-radius: 1vw;
-    color: rgb(107, 107, 184);
+    color: rgb(255, 255, 255);
 }
 
 input:hover {
-    background-color: rgb(107, 107, 184);
-    color: #D9E8EE;
+    background-color: rgb(255, 255, 255);
+    color: #3b197a;
 }
 
 #section-34 {
