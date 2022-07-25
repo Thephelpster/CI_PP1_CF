@@ -493,7 +493,6 @@ input:hover {
 #myCarousel2 {
     width: 40vw;
     position: relative;
-    left: 3vw;
 }
 
 .camper-layout {
@@ -575,7 +574,7 @@ input:hover {
     margin-top: 5vw;
     font-size: 4vw;
     width: 100vw;
-    height: 50vw;
+    height: 55vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
     position: relative;
@@ -588,13 +587,7 @@ input:hover {
     height: 40vw;
     border-radius: 1vw;
     top: 3vw;
-}
-
-#way-in {
-    width: 41vw;
-    position: relative;
-    left: 56vw;
-    border-radius: 1vw;
+    padding-bottom: 10vw;
 }
 
 /* gallery.html */
