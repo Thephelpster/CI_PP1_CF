@@ -56,6 +56,11 @@ The Campervan Factory is where you can go to find information about what product
 
 # Features
 ## Existing Features
+### favicon
+The first feature on the website is the use of a favicon on every pages tab. the favicon is a much smaller version of the main company logo that changes depending on what decvice its being shown on.
+
+![favicon 16x16](./assets/icon/favicon-16x16.png) ![favicon 32x32](./assets/icon/favicon-32x32.png)
+
 ### Navbar
 The navbar has links to all pages and all links work when selected. I used the same design and sizing for the Navbar to keep a consitant feel to the site. The navbar also collapes when apearing on a different sized screen such as a mobile device.
 
@@ -108,6 +113,25 @@ the conversion page uses many of the exsiting features but in a different layout
 the video feature that is on this page uses the autoplay function but also uses the mute function as to not give a bad reaction to the page.
 
 ![Conversion Page](./assets/readme-images/conversion-page.png)
+
+### Contact Table
+On the contact page i used a table to layout the important contact information, making it easy and clear for the viewer to be able to find the information and get in contact with the company. using a table to compile the information will also make it easy for any future changes to be make such as changing the telephone numbers or email addresses.
+
+![Contact Table](./assets/readme-images/contact-table.png)
+
+### Contact Form
+another way to contact the company is through the contact form i added to the page. this gives the viewer an even easier way to contact the company about any questions of concerns about buying a campervan from the campervan factory.
+
+unlike the form on the first page this one includes a text box that the viewer can input any questions they want to ask.
+
+![Contact Form](./assets/readme-images/contact-form.png)
+
+### Google Map iframe
+A google map iframe has been added to the bottom of the contact page giving the viewer the ability to find where the workshop is with ease. this allows the customers to be able to vist the workshop and get a first hand view of how the campervans are built and view any finished vans
+
+![Google Map iframe](./assets/readme-images/google-map-iframe.png)
+
+
 
 ## Future Features
 
