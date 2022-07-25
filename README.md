@@ -193,11 +193,47 @@ to find the fonts i wanted to use, i searched through the google fonts webpage t
 
 # Testing
 ## Responsive Test
-Iput my website through the following validation tools:
+I put my website through the following validation tools:
 
-HTML : `https://validator.w3.org/`
+### HTML 
 
-CSS: `https://jigsaw.w3.org/css-validator/`
+<details>
+<summary>Home</summary>
+<br>
+<img src="./assets/readme-images/html-checker-home.png" alt="HTML Validation Home">>
+</details>
+
+<details>
+<summary>About</summary>
+<br>
+<img src="./assets/readme-images/html-checker-about.png" alt="HTML Validation About">>
+</details>
+
+<details>
+<summary>Conversion</summary>
+<br>
+<img src="./assets/readme-images/html-checker-conversions.png" alt="HTML Validation Conversion">>
+</details>
+
+<details>
+<summary>Contact</summary>
+<br>
+<img src="./assets/readme-images/html-checker-contact.png" alt="HTML Validation Contact">>
+</details>
+
+<details>
+<summary>Gallery</summary>
+<br>
+<img src="./assets/readme-images/html-checker-gallery.png" alt="HTML Validation Gallery">>
+</details>
+
+<details>
+<summary>404 Error</summary>
+<br>
+<img src="./assets/readme-images/html-checker-404-error.png" alt="HTML Validation 404 Error">>
+</details>
+
+CSS: 
 
 Accessibility: `https://wave.webaim.org/`
 
