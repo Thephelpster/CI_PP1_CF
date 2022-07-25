@@ -68,14 +68,46 @@ The carousel on the home page is the first feature you see aprt from the navbar.
 ![Home Page Carousel](./assets/readme-images/carousel-home-page.png)
 
 ### Company Background Information and Background Image
-This is the first paragraph of information explaining about the company and giving the customer a feel for what they are buying into. The paragraph is also acompanied by a background image that shows the workshop.
+This is the first paragraph of information explaining about the company and giving the customer a feel for what they are buying into. 
+
+The paragraph is also acompanied by a background image that shows the workshop. The text is framed in a slightly see through box so the image behind is still visible but doesnt make the text hard to read.
 
 ![Background Info and Image](./assets/readme-images/general-company-information.png)
 
 ### Newsletter Signup
-this section of page allows the viewer of the page to keep up to date with the latest information coming from the campervan factory. Its a good way for a potential customer to find out more information than what is avilable on the site.
+This section of page allows the viewer of the page to keep up to date with the latest information coming from the campervan factory. Its a good way for a potential customer to find out more information than what is avilable on the site. 
+
+The newsletter form includes placeholder text, fields that must be completed and clearly marked labels for each field.
 
 ![Newsletter](./assets/readme-images/newsletter-signup.png)
+
+### Footer
+The footer is made up of the social media links that the company uses to keep potential and exsiting customers up to date with any updates over multiple platforms reaching the most amount of people.
+
+The footer is consitantly at the bottom of the each of the pages making it easy to find no matter which part of the site your on. 
+
+![Footer](./assets/readme-images/footer.png)
+
+### About Page Information
+Most of this page is information based giving the viewer a better understanding of the company and giving them the reasurance that the conversions are built profesionally. I used background images to breakup the text to make the page more enjoyable to read through. 
+
+The design has been mirrored from the perivous pages information section to add a sense of flow and consistancy.
+
+![About page information](./assets/readme-images/about-page-information.png)
+
+### BBC Points West Interview Video
+This video gives the site viewer and idea of the day to day workings of the factory and with it being shot during covid shows that the company was still busy even when no one could get out and use a campervan.
+
+I left out autoplay on this particular video but included video controls so that the viewer of the website could control if and when they wanted to watch the video.
+
+![BBC Interview Video](./assets/readme-images/interview-video.png)
+
+### The Conversion Page
+the conversion page uses many of the exsiting features but in a different layout. this continues to help with the consistant feel of the website but sets out the information in a way that isnt too overwelming for the viewer. Elements that have been used again are text in coloured boxes, video element and a carousel. 
+
+the video feature that is on this page uses the autoplay function but also uses the mute function as to not give a bad reaction to the page.
+
+![Conversion Page](./assets/readme-images/conversion-page.png)
 
 ## Future Features
 
