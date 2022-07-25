@@ -283,7 +283,8 @@ I put my website through the following validation tools:
 <img src="./assets/readme-images/wave-404.png" alt="Wave Accessibility 404 Error">>
 </details>
 
-Performance: `https://developers.google.com/web/tools/lighthouse`
+### Performance: 
+
 
 Mock up: `http://ami.responsivedesign.is/`
 
