@@ -246,6 +246,8 @@ input:hover {
 /* about.html */
 
 #campervan-selection {
+    position: relative;
+    bottom: 10vw;
     width: 100vw;
     margin-top: 5vw;
 }
@@ -256,13 +258,14 @@ input:hover {
     color: #b3d0d9;
     position: relative;
     left: 3vw;
-    top: 18vw;
+    top: 9vw;
     padding-top: 0.5vw;
     padding-bottom: 1vw;
     height: 8vw;
     width: 18vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
+    z-index: 3;
 }
 
 #background-infomation {
@@ -270,7 +273,7 @@ input:hover {
     font-size: 2vw;
     color: #b3d0d9;
     position: relative;
-    bottom: 24vw;
+    bottom: 34vw;
     left: 3vw;
     padding-top: 0.5vw;
     padding-bottom: 1vw;
@@ -283,22 +286,20 @@ input:hover {
 #campervan-factory-full {
     width: 100vw;
     position: relative;
-    bottom: 5vw;
+    bottom: 25vw;
 }
 
 #experience {
     font-family: 'Nanum Gothic', sans-serif;
-    font-size: 2vw;
+    font-size: 3vw;
     color: #b3d0d9;
     position: relative;
-    bottom: 34vw;
-    left: 3vw;
-    padding-top: 0.5vw;
-    padding-bottom: 1vw;
-    height: 19vw;
-    width: 60vw;
+    bottom: 49vw;
+    left: 1.5vw;
+    height: 23vw;
+    width: 95vw;
     background-color: rgba(107, 107, 184, 0.662);
-    padding: 1%;
+    padding: 1vw;
 }
 
 #staff-div {
