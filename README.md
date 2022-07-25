@@ -193,6 +193,18 @@ to find the fonts i wanted to use, i searched through the google fonts webpage t
 
 # Testing
 ## Responsive Test
+Iput my website through the following validation tools:
+
+HTML : `https://validator.w3.org/`
+
+CSS: `https://jigsaw.w3.org/css-validator/`
+
+Accessibility: `https://wave.webaim.org/`
+
+Performance: `https://developers.google.com/web/tools/lighthouse`
+
+Mock up: `http://ami.responsivedesign.is/`
+
 ![Mock Up Image](./assets/images/am-i-responsive.png)
 
 # Deployment
