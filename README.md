@@ -1,9 +1,27 @@
 # The Campervan Factory
 (Developer: Jamie Phelps)
 
-![mock up image](./assets/images/am-i-responsive.png)
+![company logo](./assets/icon/android-chrome-192x192.png)
+
+
 
 [Live Webpage](https://thephelpster.github.io/CI_PP1_CF/)
+
+## Contents
+Project Outline
+Description
+Aims
+Target audience
+
+Features
+Existing Features
+Future Features
+
+Testing
+
+Deployment
+
+Credits
 
 ## Project Description
 
@@ -36,3 +54,16 @@ The Campervan Factory is where you can go to find information about what product
 * Plently of pictures detailing the conversions
 * Easy to use contact page with everyway to contact the company
 
+# Features
+## Existing Features
+### Navbar
+The navbar has links to all pages and all links work when selected. I used the same design and sizing for the Navbar to keep a consitant feel to the site. The navbar also collapes when apearing on a different sized screen such as a mobile device.
+
+## Future Features
+
+# Testing
+![mock up image](./assets/images/am-i-responsive.png)
+
+# Deployment
+
+# Credits
