@@ -6,6 +6,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -265,20 +266,20 @@ input:hover {
     width: 18vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
-    z-index: 3;
+    z-index: 2;
 }
 
 #background-infomation {
     font-family: 'Nanum Gothic', sans-serif;
-    font-size: 2vw;
+    font-size: 3vw;
     color: #b3d0d9;
     position: relative;
-    bottom: 34vw;
-    left: 3vw;
+    bottom: 39vw;
+    left: 1vw;
     padding-top: 0.5vw;
     padding-bottom: 1vw;
-    height: 22vw;
-    width: 60vw;
+    height: 28vw;
+    width: 80vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
 }
@@ -307,99 +308,81 @@ input:hover {
 }
 
 #staff {
-    font-size: 3vw;
+    font-size: 5vw;
     color: #b3d0d9;
     position: relative;
-    bottom: 19vw;
+    bottom: 46vw;
     text-align: center;
     left: 3vw;
     padding-top: 0.5vw;
     padding-bottom: 1vw;
-    height: 4vw;
-    width: 25vw;
+    height: 6vw;
+    width: 40vw;
     background-color: rgba(107, 107, 184, 0.662);
     border-radius: 1vw;
 }
 
 #mike-image {
     position: relative;
-    bottom: 14vw;
+    bottom: 45vw;
+    left: 2vw;
     width: 30vw;
-    margin: 1.5vw;
     border-radius: 1vw;
+    height: 40vw;
+    overflow-y: hidden;
 }
 
 #jamie-image {
     position: relative;
-    bottom: 82vw;
-    left: 32vw;
     width: 30vw;
-    margin: 1.5vw;
+    left: 2.5vw;
+    bottom: 45vw;
     border-radius: 1vw;
+    height: 40vw;
+    overflow-y: hidden;
 }
 
 #mark-image {
     position: relative;
-    bottom: 146vw;
-    left: 64vw;
+    bottom: 45vw;
+    left: 3vw;
     width: 30vw;
-    margin: 1.5vw;
     border-radius: 1vw;
 }
 
-#mike-info {
+#staff-text{
     background-color: rgba(107, 107, 184, 0.662);
     font-family: 'Nanum Gothic', sans-serif;
-    position: relative;
-    font-size: 2vw;
-    bottom: 12vw;
-    margin: 1.5vw;
-    width: 30vw;
-    border-radius: 1vw;
-    padding: 1%;
     color: #b3d0d9;
+    font-size: 3.5vw;
+    position: relative;
+    bottom: 55vw;
+    width: 100vw;
+    padding-left: 2vw;
 }
 
-#jamie-info {
-    background-color: rgba(107, 107, 184, 0.662);
-    font-family: 'Nanum Gothic', sans-serif;
-    position: relative;
-    font-size: 2vw;
-    bottom: 80vw;
-    left: 32vw;
-    margin: 1.5vw;
-    width: 30vw;
-    border-radius: 1vw;
-    padding: 1%;
-    color: #b3d0d9;
+.column {
+    text-align: center;
+    float: left;
+    width: 33.33vw;
+    padding: 2vw;
 }
 
-#mark-info {
-    background-color: rgba(107, 107, 184, 0.662);
-    font-family: 'Nanum Gothic', sans-serif;
-    position: relative;
-    left: 64vw;
-    bottom: 144vw;
-    font-size: 2vw;
-    margin: 1.5vw;
-    width: 30vw;
-    border-radius: 1vw;
-    padding: 1%;
-    color: #b3d0d9;
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 #video-info {
     background-color: rgba(107, 107, 184, 0.662);
     font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
-    font-size: 2vw;
-    margin: 1.5vw;
+    font-size: 3vw;
     position: relative;
-    bottom: 4vw;
-    border-radius: 1vw;
-    width: 63vw;
+    bottom: 9vw;
+    width: 100vw;
     padding: 1%;
-    margin-bottom: 5vw;
 }
 
 #video-box {
