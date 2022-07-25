@@ -1,5 +1,5 @@
 # The Campervan Factory
-(Developer: Jamie Phelps)
+Developer : Jamie Phelps
 
 ![company logo](./assets/icon/android-chrome-192x192.png)
 
@@ -25,7 +25,7 @@ Credits
 
 ## Project Description
 
-The Campervan Factory is where you can go to find information about what products the company offers. The site shows examples of the conversions that are produced, history of the company and the means to be able to get in contact to start the process of buying a campervan.
+The Campervan Factory website is where you can go to find information about what products the company offers. The site shows examples of the conversions that are produced, history of the company and the means to be able to get in contact to start the process of buying a campervan.
 
 ## Project Aims
 
@@ -233,9 +233,55 @@ I put my website through the following validation tools:
 <img src="./assets/readme-images/html-checker-404-error.png" alt="HTML Validation 404 Error">>
 </details>
 
-CSS: 
+### CSS: 
+<details>
+<summary>Whole Page</summary>
+<br>
+<img src="./assets/readme-images/css-checker-whole-page.png" alt="CSS Checker Whole Page">>
+</details>
 
-Accessibility: `https://wave.webaim.org/`
+<details>
+<summary>style.css</summary>
+<br>
+<img src="./assets/readme-images/css-checker-style-css.png" alt="CSS Checker style.css">>
+</details>
+
+### Accessibility: 
+<details>
+<summary>Home</summary>
+<br>
+<img src="./assets/readme-images/wave-home.png" alt="Wave Accessibility Home">>
+</details>
+
+<details>
+<summary>About</summary>
+<br>
+<img src="./assets/readme-images/wave-about.png" alt="Wave Accessibility About">>
+</details>
+
+<details>
+<summary>Conversion</summary>
+<br>
+<img src="./assets/readme-images/wave-conversion.png" alt="Wave Accessibility Conversion">>
+</details>
+
+<details>
+<summary>Contact</summary>
+<br>
+<img src="./assets/readme-images/wave-contact.png" alt="Wave Accessibility Contact">>
+</details>
+
+<details>
+<summary>Gallery</summary>
+<br>
+<img src="./assets/readme-images/wave-gallery.png" alt="Wave Accessibility Gallery">>
+</details>
+
+<details>
+<summary>404 Error</summary>
+<br>
+<img src="./assets/readme-images/wave-404.png" alt="Wave Accessibility 404 Error">>
+</details>
 
 Performance: `https://developers.google.com/web/tools/lighthouse`
 
