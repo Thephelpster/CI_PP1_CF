@@ -131,14 +131,73 @@ A google map iframe has been added to the bottom of the contact page giving the 
 
 ![Google Map iframe](./assets/readme-images/google-map-iframe.png)
 
+### Gallery Page
+The gallery page also doubles as a review page to viewers of the site can see what exsiting customers think of the campervan theyve bought and been using. each review has corisponding images that were taken buy the customers showing off the campervans all over the world on differnt adventures.
 
+![Review Section](./assets/readme-images/gallery-review.png)
 
 ## Future Features
+to include a way of posting reviews on the page directly instead of the company doing manually. there are a few reasons for this. Firstly having the company post them up gives the impression that they are only putting up good reviews. Secondly it will take up less time for the owner of the site to keep adding reviews up manually.
+
+# Design
+## Design Style
+### Colour Choices
+when picking the colours I've used in this website i used the colorspace colour generator to help find colours that would complement each other on the screen. the base colours also had to be in keeping with the colours of the Campervan Factories sign that is visible in some of the images.
+
+after i picked my base colours i then edited them slightly when called for such as sofening the colours and making the text box backgrounds slightly see through.
+
+![Colour Generator](./assets/readme-images/colour-generator.png)
+
+### Font Choices
+to find the fonts i wanted to use, i searched through the google fonts webpage to find two fonts that were differnt enough from each other that its noticable but simular enough that they worked together well.
+
+![Google Font Comfortaa](./assets/readme-images/font-comfortaa.png)
+![Google Font Nanum Gothic](./assets/readme-images/font-nanum-gothic.png)
+
+### Wireframes
+<details>
+<summary>Home</summary>
+<br>
+<img src="./assets/readme-images/home-pc.png" alt="Home Wireframe PC"> <img src="./assets/readme-images/home-mobile.png" alt="Home Wireframe Mobile">
+</details>
+
+<details>
+<summary>About</summary>
+<br>
+<img src="./assets/readme-images/about-pc.png" alt="About Wireframe PC"> <img src="./assets/readme-images/about-mobile.png" alt="About Wireframe Mobile">
+</details>
+
+<details>
+<summary>Conversions</summary>
+<br>
+<img src="./assets/readme-images/conversion-pc.png" alt="Conversion Wireframe PC"> <img src="./assets/readme-images/conversion-mobile.png" alt="Conversion Wireframe Mobile">
+</details>
+
+<details>
+<summary>Contact</summary>
+<br>
+<img src="./assets/readme-images/contact-pc.png" alt="Contact Wireframe PC"> <img src="./assets/readme-images/contact-mobile.png" alt="Contact Wireframe Mobile">
+</details>
+
+<details>
+<summary>Gallery</summary>
+<br>
+<img src="./assets/readme-images/gallery-pc.png" alt="Gallery Wireframe PC"> <img src="./assets/readme-images/gallery-mobile.png" alt="Gallery Wireframe Mobile">
+</details>
+
+<details>
+<summary>404 Error</summary>
+<br>
+<img src="./assets/readme-images/404-error-pc.png" alt="404 Error Wireframe PC"> <img src="./assets/readme-images/404-error-mobile.png" alt="404 Error Wireframe Mobile">
+</details>
 
 # Testing
-
+## Responsive Test
 ![Mock Up Image](./assets/images/am-i-responsive.png)
 
 # Deployment
 
 # Credits
+
+https://mycolor.space/?hex=%23845EC2&sub=1
+https://fonts.google.com/specimen/Comfortaa
