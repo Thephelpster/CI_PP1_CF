@@ -436,6 +436,13 @@ input:hover {
     border-radius: 1vw;
 }
 
+.container{
+    padding-left: 3vw;
+    padding-right: 3vw;
+    margin-left: 0;
+    margin-right: 0;
+}
+
 .inside-conversion {
     position: relative;
     left: 1vw;
@@ -475,15 +482,13 @@ input:hover {
     font-family: 'Nanum Gothic', sans-serif;
     color: #b3d0d9;
     margin-top: 5vw;
-    font-size: 2vw;
-    width: 96vw;
-    height: 15vw;
+    font-size: 3vw;
+    width: 100vw;
+    height: 35vw;
     background-color: rgba(107, 107, 184, 0.662);
-    padding: 0.5%;
     position: relative;
     bottom: 58vw;
-    left: 2vw;
-    border-radius: 1vw;
+    padding: 1vw;
 }
 
 #myCarousel2 {
@@ -492,10 +497,15 @@ input:hover {
 }
 
 .camper-layout {
-    width: 40vw;
+    width: 45.5vw;
     position: relative;
-    left: 7vw;
-    margin: 1.5vw;
+    left: 1vw;
+    top: 30vw;
+    padding: 1.5vw;
+}
+
+#camper-layout-div{
+    height: 20vw;
 }
 
 #layout-div {
@@ -507,7 +517,6 @@ input:hover {
 #white-camper {
     width: 100vw;
     position: relative;
-    top: 3vw;
 }
 
 #address-heading {
@@ -580,10 +589,8 @@ input:hover {
 #map {
     position: relative;
     width: 100vw;
-    height: 40vw;
-    border-radius: 1vw;
-    top: 3vw;
-    padding-bottom: 10vw;
+    height: 80vw;
+    bottom: 13vw;
 }
 
 /* gallery.html */
