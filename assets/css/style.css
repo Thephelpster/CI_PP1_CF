@@ -581,7 +581,7 @@ input:hover {
     width: 100vw;
     height: 55vw;
     background-color: rgba(107, 107, 184, 0.662);
-    padding: 1%;
+    padding: 1vw;
     position: relative;
     list-style-type: none;
 }
@@ -589,8 +589,9 @@ input:hover {
 #map {
     position: relative;
     width: 100vw;
-    height: 80vw;
-    bottom: 13vw;
+    height: 60vw;
+    padding-top: 5vw;
+    padding-bottom: 5vw;
 }
 
 /* gallery.html */
@@ -598,7 +599,6 @@ input:hover {
 #silver-campervan {
     width: 100vw;
     position: relative;
-    top: 3vw;
 }
 
 #gallery-title {
@@ -607,9 +607,9 @@ input:hover {
     margin-top: 5vw;
     font-size: 2vw;
     width: 29vw;
-    height: 14vw;
+    height: 12vw;
     background-color: rgba(107, 107, 184, 0.662);
-    padding: 1%;
+    padding: 1vw;
     position: relative;
     left: 2vw;
     bottom: 44vw;
@@ -648,12 +648,12 @@ input:hover {
     margin-top: 5vw;
     font-size: 2vw;
     width: 33vw;
-    height: 67vw;
+    height: 71vw;
     background-color: rgba(107, 107, 184, 0.662);
-    padding: 1%;
+    padding: 1vw;
     position: relative;
     left: 3vw;
-    bottom: 68vw;
+    bottom: 71vw;
     border-radius: 1vw;
 }
 
@@ -680,7 +680,7 @@ input:hover {
 #rob-3 {
     position: relative;
     right: 30vw;
-    top: 40vw;
+    top: 45vw;
     border-radius: 1vw;
     width: 30vw;
 }
@@ -691,12 +691,12 @@ input:hover {
     margin-top: 5vw;
     font-size: 2vw;
     width: 33vw;
-    height: 61vw;
+    height: 65vw;
     background-color: rgba(107, 107, 184, 0.662);
-    padding: 1%;
+    padding: 1vw;
     position: relative;
     left: 65vw;
-    bottom: 30vw;
+    bottom: 27vw;
     border-radius: 1vw;
 }
 
@@ -707,15 +707,15 @@ input:hover {
 #john-1 {
     position: relative;
     left: 40vw;
-    bottom: 6vw;
+    top: 6vw;
     border-radius: 1vw;
     width: 35vw;
 }
 
 #john-2 {
     position: relative;
-    left: 28vw;
-    top: 10vw;
+    left: 27vw;
+    top: 28vw;
     border-radius: 1vw;
     width: 35vw;
 }
@@ -725,6 +725,7 @@ input:hover {
     left: 40vw;
     border-radius: 1vw;
     width: 35vw;
+    top: 15vw;
 }
 
 #john-review {
@@ -733,12 +734,12 @@ input:hover {
     margin-top: 5vw;
     font-size: 2vw;
     width: 33vw;
-    height: 67vw;
+    height: 72vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1%;
     position: relative;
     left: 4vw;
-    bottom: 68vw;
+    bottom: 59vw;
     border-radius: 1vw;
 }
 
