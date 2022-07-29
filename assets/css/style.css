@@ -16,6 +16,10 @@ body {
     overflow-x: hidden;
 }
 
+p {
+    margin: 0 0 1vw;
+}
+
 #logo {
     height: 10vw;
     position: relative;
@@ -648,7 +652,7 @@ input:hover {
     margin-top: 5vw;
     font-size: 2vw;
     width: 33vw;
-    height: 71vw;
+    height: 68vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1vw;
     position: relative;
@@ -691,7 +695,7 @@ input:hover {
     margin-top: 5vw;
     font-size: 2vw;
     width: 33vw;
-    height: 65vw;
+    height: 62vw;
     background-color: rgba(107, 107, 184, 0.662);
     padding: 1vw;
     position: relative;
@@ -701,7 +705,7 @@ input:hover {
 }
 
 #john-section {
-    height: 60vw;
+    height: 80vw;
 }
 
 #john-1 {
@@ -734,9 +738,9 @@ input:hover {
     margin-top: 5vw;
     font-size: 2vw;
     width: 33vw;
-    height: 72vw;
+    height: 68vw;
     background-color: rgba(107, 107, 184, 0.662);
-    padding: 1%;
+    padding: 1vw;
     position: relative;
     left: 4vw;
     bottom: 59vw;
