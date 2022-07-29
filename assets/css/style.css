@@ -509,7 +509,9 @@ input:hover {
 }
 
 #camper-layout-div{
-    height: 20vw;
+    height: 50vw;
+    position: relative;
+    bottom: 10vw;
 }
 
 #layout-div {
