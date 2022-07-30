@@ -7,26 +7,29 @@ Developer : Jamie Phelps
 
 [Live Webpage](https://thephelpster.github.io/CI_PP1_CF/)
 
-## Table of Content
+# Table of Content
 
-1. [Project Goals](#project-goals)
+1. [Project Discription](#project-description)
+2. [Project Goals](#project-goals)
     1. [User Goals](#user-goals)
     2. [Site Owner Goals](#site-owner-goals)
-2. [User Experience](#user-experience)
+3. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
     2. [User Requrements and Expectations](#user-requrements-and-expectations)
     3. [User Stories](#user-stories)
-3. [Design](#design)
+4. [Design](#design)
     1. [Design Choices](#design-choices)
     2. [Colour](#colours)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
-4. [Technologies Used](#technologies-used)
+5. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
-5. [Features](#features)
-6. [Testing](#validation)
+6. [Features](#features)
+    1. [Existing Features](#existing-features)
+    2. [Future Features](#future-features)
+7. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
@@ -39,40 +42,113 @@ Developer : Jamie Phelps
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
 
-## Project Description
+# Project Description
 
 The Campervan Factory website is where you can go to find information about what products the company offers. The site shows examples of the conversions that are produced, history of the company and the means to be able to get in contact to start the process of buying a campervan.
 
-## Project Aims
+# Project Goals
 
-### User Aims
+## User Goals
 * Finding a Campervan conversion they're confindent in
 * Finding a breakdown of the conversion specs
 * Finding the Companys history and background
 * Finding the location of the Campervan Factory
 
-### Company Aims
+## Site Owner Goals
 * Improve sales through clear and accesible site
 * Improve customer communitcation through easy to use contact page
 * Improve ease of locating the workshop
 * layout information in a clear and easy to read manor
 
-### Target Audience
+# User Experience
+
+## Target Audience
 * People looking to buy a VW Campervan
 * People looking for previous customer experiences
 * People wanting to visit the workshop location
 * People wanting to sign up for the weekly newsletter
 
-### User Expectations
+## User Requrements and Expectations
 * Easy to navigate site
 * Simple layout on each page to make finding infomation quick
 * Accessiblity
 * Plently of pictures detailing the conversions
 * Easy to use contact page with everyway to contact the company
 
+## User Stories
+
+# Design
+## Design Choices
+## Colour
+when picking the colours I've used in this website i used the colorspace colour generator to help find colours that would complement each other on the screen. the base colours also had to be in keeping with the colours of the Campervan Factories sign that is visible in some of the images.
+
+after i picked my base colours i then edited them slightly when called for such as sofening the colours and making the text box backgrounds slightly see through.
+
+![Colour Generator](./assets/readme-images/colour-generator.png)
+
+## Fonts
+to find the fonts i wanted to use, i searched through the google fonts webpage to find two fonts that were differnt enough from each other that its noticable but simular enough that they worked together well.
+
+![Google Font Comfortaa](./assets/readme-images/font-comfortaa.png)
+![Google Font Nanum Gothic](./assets/readme-images/font-nanum-gothic.png)
+## Structure
+
+## Wireframes
+<details>
+<summary>Home</summary>
+<br>
+<img src="./assets/readme-images/home-pc.png" alt="Home Wireframe PC"> <img src="./assets/readme-images/home-mobile.png" alt="Home Wireframe Mobile">
+</details>
+
+<details>
+<summary>About</summary>
+<br>
+<img src="./assets/readme-images/about-pc.png" alt="About Wireframe PC"> <img src="./assets/readme-images/about-mobile.png" alt="About Wireframe Mobile">
+</details>
+
+<details>
+<summary>Conversions</summary>
+<br>
+<img src="./assets/readme-images/conversion-pc.png" alt="Conversion Wireframe PC"> <img src="./assets/readme-images/conversion-mobile.png" alt="Conversion Wireframe Mobile">
+</details>
+
+<details>
+<summary>Contact</summary>
+<br>
+<img src="./assets/readme-images/contact-pc.png" alt="Contact Wireframe PC"> <img src="./assets/readme-images/contact-mobile.png" alt="Contact Wireframe Mobile">
+</details>
+
+<details>
+<summary>Gallery</summary>
+<br>
+<img src="./assets/readme-images/gallery-pc.png" alt="Gallery Wireframe PC"> <img src="./assets/readme-images/gallery-mobile.png" alt="Gallery Wireframe Mobile">
+</details>
+
+<details>
+<summary>404 Error</summary>
+<br>
+<img src="./assets/readme-images/404-error-pc.png" alt="404 Error Wireframe PC"> <img src="./assets/readme-images/404-error-mobile.png" alt="404 Error Wireframe Mobile">
+</details>
+
+# Technologies Used
+## Languages
+* HTML
+* CSS
+
+## Frameworks & Tools
+* Git
+* GitHub
+* GitPod
+* Bootstrap
+* Balsamiq
+* Google Fonts
+* Font Awesome
+* Favicon.io
+* W3S Tutourials
+
 # Features
 ## Existing Features
-### favicon
+### Favicon
 The first feature on the website is the use of a favicon on every pages tab. the favicon is a much smaller version of the main company logo that changes depending on what decvice its being shown on.
 
 ![favicon 16x16](./assets/icon/favicon-16x16.png) ![favicon 32x32](./assets/icon/favicon-32x32.png)
@@ -157,56 +233,10 @@ to include a way of posting reviews on the page directly instead of the company 
 
 # Design
 ## Design Style
-### Colour Choices
-when picking the colours I've used in this website i used the colorspace colour generator to help find colours that would complement each other on the screen. the base colours also had to be in keeping with the colours of the Campervan Factories sign that is visible in some of the images.
-
-after i picked my base colours i then edited them slightly when called for such as sofening the colours and making the text box backgrounds slightly see through.
-
-![Colour Generator](./assets/readme-images/colour-generator.png)
-
-### Font Choices
-to find the fonts i wanted to use, i searched through the google fonts webpage to find two fonts that were differnt enough from each other that its noticable but simular enough that they worked together well.
-
-![Google Font Comfortaa](./assets/readme-images/font-comfortaa.png)
-![Google Font Nanum Gothic](./assets/readme-images/font-nanum-gothic.png)
-
 ### Wireframes
-<details>
-<summary>Home</summary>
-<br>
-<img src="./assets/readme-images/home-pc.png" alt="Home Wireframe PC"> <img src="./assets/readme-images/home-mobile.png" alt="Home Wireframe Mobile">
-</details>
 
-<details>
-<summary>About</summary>
-<br>
-<img src="./assets/readme-images/about-pc.png" alt="About Wireframe PC"> <img src="./assets/readme-images/about-mobile.png" alt="About Wireframe Mobile">
-</details>
 
-<details>
-<summary>Conversions</summary>
-<br>
-<img src="./assets/readme-images/conversion-pc.png" alt="Conversion Wireframe PC"> <img src="./assets/readme-images/conversion-mobile.png" alt="Conversion Wireframe Mobile">
-</details>
-
-<details>
-<summary>Contact</summary>
-<br>
-<img src="./assets/readme-images/contact-pc.png" alt="Contact Wireframe PC"> <img src="./assets/readme-images/contact-mobile.png" alt="Contact Wireframe Mobile">
-</details>
-
-<details>
-<summary>Gallery</summary>
-<br>
-<img src="./assets/readme-images/gallery-pc.png" alt="Gallery Wireframe PC"> <img src="./assets/readme-images/gallery-mobile.png" alt="Gallery Wireframe Mobile">
-</details>
-
-<details>
-<summary>404 Error</summary>
-<br>
-<img src="./assets/readme-images/404-error-pc.png" alt="404 Error Wireframe PC"> <img src="./assets/readme-images/404-error-mobile.png" alt="404 Error Wireframe Mobile">
-</details>
-
+### Performance: 
 # Testing
 ## Responsive Test
 I put my website through the following validation tools:
@@ -298,9 +328,6 @@ I put my website through the following validation tools:
 <br>
 <img src="./assets/readme-images/wave-404.png" alt="Wave Accessibility 404 Error">>
 </details>
-
-### Performance: 
-
 
 Mock up: `http://ami.responsivedesign.is/`
 
