@@ -109,6 +109,10 @@ footer {
 
 /*index.html*/
 
+.campervan-example{
+    width: 100%;
+}
+
 #myCarousel {
     position: relative;
     left: 5vw;
@@ -332,8 +336,6 @@ input:hover {
     left: 2vw;
     width: 30vw;
     border-radius: 1vw;
-    height: 40vw;
-    overflow-y: hidden;
 }
 
 #jamie-image {
@@ -438,6 +440,10 @@ input:hover {
     background-color: rgba(107, 107, 184, 0.662);
     padding: 0.5%;
     border-radius: 1vw;
+}
+
+.conversion-carousel{
+    width: 100%;
 }
 
 .container{
@@ -590,6 +596,23 @@ input:hover {
     padding: 1vw;
     position: relative;
     list-style-type: none;
+}
+
+#first-name{
+    width:60vw; 
+    padding: 0.5vw; 
+    margin-left: 4vw;
+}
+
+#email{
+    width:60vw; 
+    padding: 0.5vw;
+    margin: 1vw; 
+    margin-left: 12vw;
+}
+
+#message{
+    margin-left: 3vw; 
 }
 
 #map {
