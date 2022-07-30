@@ -33,10 +33,11 @@ Developer : Jamie Phelps
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
-    4. [Performance](#performance)
-    5. [Device testing](#performing-tests-on-various-devices)
-    6. [Browser compatibility](#browser-compatability)
-    7. [Testing user stories](#testing-user-stories)
+    4. [Mock up](#mock-up)
+    5. [Performance](#performance)
+    6. [Device testing](#performing-tests-on-various-devices)
+    7. [Browser compatibility](#browser-compatability)
+    8. [Testing user stories](#testing-user-stories)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
@@ -76,9 +77,32 @@ The Campervan Factory website is where you can go to find information about what
 * Easy to use contact page with everyway to contact the company
 
 ## User Stories
+### First Time User
+1. As a first time user, I want to find images of the campervans
+2. As a first time user, I want to find information about the company
+3. As a first time user, I want to find reviews from pervious customers
+4. As a first time user, I want to find links to social media sites
+
+### Returning User
+5. As a returning user, I want to see the build process of the campervans
+6. As a returning user, I want to see the opening times
+7. As a returning user, I want to see more details about the conversions
+8. As a returning user, I want to see more information about the staff
+9. As a returning user, I want to be able to contact the campervan factory to ask questions
+10. As a returning user, I want to see all contact information eg. phone numbers and email address
+11. As a returning user I want to see a map showing the location of the campervan factory
+12. As a returning user I want to see a video explaining how the conversion works
+13. As a returning user I want to sign up to a mailing list to recieve the latest information and offers
+
+### Website Owner
+14. As the website owner, I want users to find information about the company
+15. As the website owner, I want users to see reviews from pervious customers
+16. As the website owner, I want users to see what conversions are on offer
 
 # Design
 ## Design Choices
+I've chosen the design style based on using a colourful background, text and logo to give a friendly feel to the website and by extension, the company. The colours also tie in with the colours chosen for the uniforms and signage at the factory.
+
 ## Colour
 when picking the colours I've used in this website i used the colorspace colour generator to help find colours that would complement each other on the screen. the base colours also had to be in keeping with the colours of the Campervan Factories sign that is visible in some of the images.
 
@@ -169,12 +193,16 @@ This is the first paragraph of information explaining about the company and givi
 
 The paragraph is also acompanied by a background image that shows the workshop. The text is framed in a slightly see through box so the image behind is still visible but doesnt make the text hard to read.
 
+User stories covered: 1, 2 and 14
+
 ![Background Info and Image](./assets/readme-images/general-company-information.png)
 
 ### Newsletter Signup
 This section of page allows the viewer of the page to keep up to date with the latest information coming from the campervan factory. Its a good way for a potential customer to find out more information than what is avilable on the site. 
 
 The newsletter form includes placeholder text, fields that must be completed and clearly marked labels for each field.
+
+User stories covered: 13
 
 ![Newsletter](./assets/readme-images/newsletter-signup.png)
 
@@ -183,12 +211,16 @@ The footer is made up of the social media links that the company uses to keep po
 
 The footer is consitantly at the bottom of the each of the pages making it easy to find no matter which part of the site your on. 
 
+User stories covered: 4
+
 ![Footer](./assets/readme-images/footer.png)
 
 ### About Page Information
 Most of this page is information based giving the viewer a better understanding of the company and giving them the reasurance that the conversions are built profesionally. I used background images to breakup the text to make the page more enjoyable to read through. 
 
 The design has been mirrored from the perivous pages information section to add a sense of flow and consistancy.
+
+User stories covered: 1, 2, 8 and 14
 
 ![About page information](./assets/readme-images/about-page-information.png)
 
@@ -197,6 +229,8 @@ This video gives the site viewer and idea of the day to day workings of the fact
 
 I left out autoplay on this particular video but included video controls so that the viewer of the website could control if and when they wanted to watch the video.
 
+User stories covered: 1, 2, 5, 8 and 14
+
 ![BBC Interview Video](./assets/readme-images/interview-video.png)
 
 ### The Conversion Page
@@ -204,10 +238,14 @@ the conversion page uses many of the exsiting features but in a different layout
 
 the video feature that is on this page uses the autoplay function but also uses the mute function as to not give a bad reaction to the page.
 
+User stories covered: 1, 2, 7, 8, 12, 14 and 16
+
 ![Conversion Page](./assets/readme-images/conversion-page.png)
 
 ### Contact Table
 On the contact page i used a table to layout the important contact information, making it easy and clear for the viewer to be able to find the information and get in contact with the company. using a table to compile the information will also make it easy for any future changes to be make such as changing the telephone numbers or email addresses.
+
+User stories covered: 10
 
 ![Contact Table](./assets/readme-images/contact-table.png)
 
@@ -216,33 +254,31 @@ another way to contact the company is through the contact form i added to the pa
 
 unlike the form on the first page this one includes a text box that the viewer can input any questions they want to ask.
 
+User stories covered: 9
+
 ![Contact Form](./assets/readme-images/contact-form.png)
 
 ### Google Map iframe
 A google map iframe has been added to the bottom of the contact page giving the viewer the ability to find where the workshop is with ease. this allows the customers to be able to vist the workshop and get a first hand view of how the campervans are built and view any finished vans
+
+User stories covered: 11
 
 ![Google Map iframe](./assets/readme-images/google-map-iframe.png)
 
 ### Gallery Page
 The gallery page also doubles as a review page to viewers of the site can see what exsiting customers think of the campervan theyve bought and been using. each review has corisponding images that were taken buy the customers showing off the campervans all over the world on differnt adventures.
 
+User stories covered: 3, 15
+
 ![Review Section](./assets/readme-images/gallery-review.png)
 
 ## Future Features
 to include a way of posting reviews on the page directly instead of the company doing manually. there are a few reasons for this. Firstly having the company post them up gives the impression that they are only putting up good reviews. Secondly it will take up less time for the owner of the site to keep adding reviews up manually.
 
-# Design
-## Design Style
-### Wireframes
-
-
-### Performance: 
-# Testing
-## Responsive Test
+# Validation
 I put my website through the following validation tools:
 
-### HTML 
-
+## HTML Validation
 <details>
 <summary>Home</summary>
 <br>
@@ -279,7 +315,7 @@ I put my website through the following validation tools:
 <img src="./assets/readme-images/html-checker-404-error.png" alt="HTML Validation 404 Error">>
 </details>
 
-### CSS: 
+### CSS Validation: 
 <details>
 <summary>Whole Page</summary>
 <br>
@@ -308,7 +344,7 @@ I put my website through the following validation tools:
 <details>
 <summary>Conversion</summary>
 <br>
-<img src="./assets/readme-images/wave-conversion.png" alt="Wave Accessibility Conversion">>
+<img src="./assets/readme-images/wave-conversions.png" alt="Wave Accessibility Conversion">>
 </details>
 
 <details>
@@ -329,9 +365,21 @@ I put my website through the following validation tools:
 <img src="./assets/readme-images/wave-404.png" alt="Wave Accessibility 404 Error">>
 </details>
 
-Mock up: `http://ami.responsivedesign.is/`
-
+### Mock up
 ![Mock Up Image](./assets/images/am-i-responsive.png)
+
+### Performance
+
+### Device testing
+
+### Browser compatibility
+
+### Testing user stories
+
+## Bugs
+
+
+
 
 # Deployment
 
