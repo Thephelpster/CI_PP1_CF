@@ -212,9 +212,9 @@ footer {
     color: #b3d0d9;
     position: relative;
     bottom: 62vw;
-    left: 43vw;
+    left: 35vw;
     height: 33vw;
-    width: 50vw;
+    width: 65vw;
     background-color: rgba(107, 107, 184, 0.662);
 }
 
@@ -598,13 +598,13 @@ input:hover {
     list-style-type: none;
 }
 
-#first-name{
+#full-name{
     width:60vw; 
     padding: 0.5vw; 
     margin-left: 4vw;
 }
 
-#email{
+#email-contact{
     width:60vw; 
     padding: 0.5vw;
     margin: 1vw; 
