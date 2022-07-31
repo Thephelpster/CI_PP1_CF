@@ -195,7 +195,7 @@ The paragraph is also acompanied by a background image that shows the workshop. 
 
 User stories covered: 1, 2 and 14
 
-![Background Info and Image](./assets/readme-images/general-company-information.png)
+![Background Info and Carousel Images](./assets/readme-images/general-company-information.png)
 
 ### Newsletter Signup
 This section of page allows the viewer of the page to keep up to date with the latest information coming from the campervan factory. Its a good way for a potential customer to find out more information than what is avilable on the site. 
@@ -245,7 +245,7 @@ User stories covered: 1, 2, 7, 8, 12, 14 and 16
 ### Contact Table
 On the contact page i used a table to layout the important contact information, making it easy and clear for the viewer to be able to find the information and get in contact with the company. using a table to compile the information will also make it easy for any future changes to be make such as changing the telephone numbers or email addresses.
 
-User stories covered: 10
+User stories covered: 10 and 6
 
 ![Contact Table](./assets/readme-images/contact-table.png)
 
@@ -441,10 +441,132 @@ All pages have also been tested on all available screen sizes on google chrome d
 Google Chrome
 Microsoft Edge
 
-
 ### Testing user stories
+1. As a first time user, I want to find images of the campervans
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Carousel images | Scroll down to carousel | See the pictures campervans | Works as expected |
+| About page | Go to navbar, select About page and scroll down to Background information | read the information | Works as expected |
+| BBC Interview | Go to navbar, select About and scroll down to the video | Press play on the video | Works as expected |
+| Conversion page | Go to navbar, select Conversion and scroll down to the pictures | See the pictures | Works as expected |
+
+
+2. As a first time user, I want to find information about the company
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Background Info | Scroll down to see the background information | read about the company | Works as expected |
+| About page | Go to navbar, select About page and scroll down to Background information | read the information | Works as expected |
+| BBC Interview | Go to navbar, select About and scroll down to the video | Press play on the video | Works as expected |
+| Conversion page | Go to navbar, select Conversion and scroll down to the pictures | See the pictures | Works as expected |
+
+
+3. As a first time user, I want to find reviews from pervious customers
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery page | Go to navbar, select Gallery and scroll down to reviews | Read reviews | Works as expected |
+
+
+4. As a first time user, I want to find links to social media sites
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer | Scroll down to the bottom of the page | Click on the social media link you want | Works as Expected |
+
+
+5. As a returning user, I want to see the build process of the campervans
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| BBC Interview | Go to navbar, select About and scroll down to the video | Press play on the video | Works as expected |
+
+
+6. As a returning user, I want to see the opening times
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact table | Go to navbar, select contact us and scroll down to contact table | See opening times | Works as expected |
+
+
+7. As a returning user, I want to see more details about the conversions
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Conversion page | Go to navbar, select Conversion and scroll down to the pictures | See the pictures | Works as expected |
+
+
+8. As a returning user, I want to see more information about the staff
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About page | Go to navbar, select About page and scroll down to Background information | read the information | Works as expected |
+| BBC Interview | Go to navbar, select About and scroll down to the video | Press play on the video | Works as expected |
+| Conversion page | Go to navbar, select Conversion and scroll down to the pictures | See the pictures | Works as expected |
+
+
+9. As a returning user, I want to be able to contact the campervan factory to ask questions
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Go to navbar, select Contact and scroll down to the contact form | Find Contact form | Works as expected |
+
+
+10. As a returning user, I want to see all contact information eg. phone numbers and email address
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact table | Go to navbar, select contact us and scroll down to contact table | See opening times | Works as expected |
+
+
+11. As a returning user I want to see a map showing the location of the campervan factory
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Google map iFrame | Go to navbar, select Contact and scroll down to the google maps iframe | see the location of the campervan factory | Works as expected |
+
+
+12. As a returning user I want to see a video explaining how the conversion works
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Conversion page | Go to navbar, select Conversion and scroll down to the pictures | See the pictures | Works as expected |
+
+
+13. As a returning user I want to sign up to a mailing list to recieve the latest information and offers
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Newsletter form | Scroll down to the newsletter form | Find the newsletter form | Works as expected |
+
+
+14. As the website owner, I want users to find information about the company
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Background Info | Scroll down to see the background information | read about the company | Works as expected |
+| About page | Go to navbar, select About page and scroll down to Background information | read the information | Works as expected |
+| BBC Interview | Go to navbar, select About and scroll down to the video | Press play on the video | Works as expected |
+| Conversion page | Go to navbar, select Conversion and scroll down to the pictures | See the pictures | Works as expected |
+
+
+15. As the website owner, I want users to see reviews from pervious customers
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery page | Go to navbar, select Gallery and scroll down to reviews | Read reviews | Works as expected |
+
+
+16. As the website owner, I want users to see what conversions are on offer
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Conversion page | Go to navbar, select Conversion and scroll down to the pictures | See the pictures | Works as expected |
+
 
 ## Bugs
+
 
 
 
@@ -479,8 +601,12 @@ Images and videos not referenced below are owned by the developer.
 * Video of the BBC Interview is owned by the BBC.
 
 ## Code
-
 https://mycolor.space/?hex=%23845EC2&sub=1
 https://fonts.google.com/specimen/Comfortaa
 
 # Acknowledgements
+I'd like to thank these people who gave me all the help and support i needed to finish and make this project look as good as it does.
+
+* Mo Shami, my mentor, for all the guidance, help and advice.
+* Kate Cleal, my partner, for designing the 404 page image, the logo image and being my spell checker for all the text.
+* The Campervan Factory, my old workplace, for giving me the inspiration for this website and the images used to bring it to life.
