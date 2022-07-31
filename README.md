@@ -566,7 +566,13 @@ Microsoft Edge
 
 
 ## Bugs
-
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Position of image error when viewed on iphone5 screen | Change width value to use 'vw' instead of 'px |
+| Contrast colour error on submit button | Change to colours that are easier to view on background colour|
+| lack of aria label on home button on 404.html page | add aria label to button | 
+| Font too small to be easy to read on small screens | Increase font size using 'vw' sizes |
+| performance of pages slow to load | resize images and change file type to WEBP |
 
 
 
@@ -574,10 +580,10 @@ Microsoft Edge
 # Deployment
 The website was deployed using GitHub Pages by following these steps:
 
-In the GitHub repository navigate to the Settings tab
-On the left hand menu select Pages
-For the source select Branch: main
-After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at
+1. In the GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+3. For the source select Branch: main
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at
 https://thephelpster.github.io/CI_PP1_CF/
 
 A Link to the live site: [The Campervan Factory](https://thephelpster.github.io/CI_PP1_CF/)
