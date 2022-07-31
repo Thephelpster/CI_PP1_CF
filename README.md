@@ -19,7 +19,7 @@ Developer : Jamie Phelps
     3. [User Stories](#user-stories)
 4. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
+    2. [Colour](#colour)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
@@ -282,97 +282,165 @@ I put my website through the following validation tools:
 <details>
 <summary>Home</summary>
 <br>
-<img src="./assets/readme-images/html-checker-home.png" alt="HTML Validation Home">>
+<img src="./assets/readme-images/html-checker-home.png" alt="HTML Validation Home">
 </details>
 
 <details>
 <summary>About</summary>
 <br>
-<img src="./assets/readme-images/html-checker-about.png" alt="HTML Validation About">>
+<img src="./assets/readme-images/html-checker-about.png" alt="HTML Validation About">
 </details>
 
 <details>
 <summary>Conversion</summary>
 <br>
-<img src="./assets/readme-images/html-checker-conversions.png" alt="HTML Validation Conversion">>
+<img src="./assets/readme-images/html-checker-conversions.png" alt="HTML Validation Conversion">
 </details>
 
 <details>
 <summary>Contact</summary>
 <br>
-<img src="./assets/readme-images/html-checker-contact.png" alt="HTML Validation Contact">>
+<img src="./assets/readme-images/html-checker-contact.png" alt="HTML Validation Contact">
 </details>
 
 <details>
 <summary>Gallery</summary>
 <br>
-<img src="./assets/readme-images/html-checker-gallery.png" alt="HTML Validation Gallery">>
+<img src="./assets/readme-images/html-checker-gallery.png" alt="HTML Validation Gallery">
 </details>
 
 <details>
 <summary>404 Error</summary>
 <br>
-<img src="./assets/readme-images/html-checker-404-error.png" alt="HTML Validation 404 Error">>
+<img src="./assets/readme-images/html-checker-404-error.png" alt="HTML Validation 404 Error">
 </details>
 
 ### CSS Validation: 
 <details>
 <summary>Whole Page</summary>
 <br>
-<img src="./assets/readme-images/css-checker-whole-page.png" alt="CSS Checker Whole Page">>
+<img src="./assets/readme-images/css-checker-whole-page.png" alt="CSS Checker Whole Page">
 </details>
 
 <details>
 <summary>style.css</summary>
 <br>
-<img src="./assets/readme-images/css-checker-style-css.png" alt="CSS Checker style.css">>
+<img src="./assets/readme-images/css-checker-style-css.png" alt="CSS Checker style.css">
 </details>
 
 ### Accessibility: 
 <details>
 <summary>Home</summary>
 <br>
-<img src="./assets/readme-images/wave-home.png" alt="Wave Accessibility Home">>
+<img src="./assets/readme-images/wave-home.png" alt="Wave Accessibility Home">
 </details>
 
 <details>
 <summary>About</summary>
 <br>
-<img src="./assets/readme-images/wave-about.png" alt="Wave Accessibility About">>
+<img src="./assets/readme-images/wave-about.png" alt="Wave Accessibility About">
 </details>
 
 <details>
 <summary>Conversion</summary>
 <br>
-<img src="./assets/readme-images/wave-conversions.png" alt="Wave Accessibility Conversion">>
+<img src="./assets/readme-images/wave-conversions.png" alt="Wave Accessibility Conversion">
 </details>
 
 <details>
 <summary>Contact</summary>
 <br>
-<img src="./assets/readme-images/wave-contact.png" alt="Wave Accessibility Contact">>
+<img src="./assets/readme-images/wave-contact.png" alt="Wave Accessibility Contact">
 </details>
 
 <details>
 <summary>Gallery</summary>
 <br>
-<img src="./assets/readme-images/wave-gallery.png" alt="Wave Accessibility Gallery">>
+<img src="./assets/readme-images/wave-gallery.png" alt="Wave Accessibility Gallery">
 </details>
 
 <details>
 <summary>404 Error</summary>
 <br>
-<img src="./assets/readme-images/wave-404.png" alt="Wave Accessibility 404 Error">>
+<img src="./assets/readme-images/wave-404.png" alt="Wave Accessibility 404 Error">
 </details>
 
 ### Mock up
 ![Mock Up Image](./assets/images/am-i-responsive.png)
 
 ### Performance
+<details>
+<summary>Home Mobile</summary>
+<br>
+<img src="./assets/readme-images/lighthouse-home-mobile.png" alt="lighthouse-home-mobile">
+</details>
+
+<details>
+<summary>Home Desktop</summary>
+<br>
+<img src="./assets/readme-images/lighthouse-home-desktop.png" alt="lighthouse-home-desktop">
+</details>
+
+<details>
+<summary>About Mobile</summary>
+<br>
+<img src="./assets/readme-images/lighthouse-about-mobile.png" alt="lighthouse-about-mobile">
+</details>
+
+<details>
+<summary>About Desktop</summary>
+<br>
+<img src="./assets/readme-images/lighthouse-about-desktop.png" alt="lighthouse-about-desktop">
+</details>    
+
+<details>
+<summary>Conversion Mobile</summary>
+<br>
+<img src="./assets/readme-images/lighthouse-conversion-mobile.png" alt="lighthouse-conversion-mobile">
+</details>
+
+<details>
+<summary>Conversion Desktop</summary>
+<br>
+<img src="./assets/readme-images/lighthouse-conversion-mobile.png" alt="lighthouse-conversion-desktop">
+</details>
+
+<details>
+<summary>Contact Mobile</summary>
+<br>
+<img src="./assets/readme-images/lighthouse-contact-mobile.png" alt="lighthouse-contact-mobile">
+</details>
+
+<details>
+<summary>Contact Desktop</summary>
+<br>
+<img src="./assets/readme-images/lighthouse-contact-desktop.png" alt="lighthouse-contact-desktop">
+</details>
+
+<details>
+<summary>Gallery Mobile</summary>
+<br>
+<img src="./assets/readme-images/lighthouse-gallery-mobile.png" alt="lighthouse-gallery-mobile">
+</details>
+
+<details>
+<summary>Gallery Desktop</summary>
+<br>
+<img src="./assets/readme-images/lighthouse-gallery-desktop.png" alt="lighthouse-conversion-desktop">
+</details>
 
 ### Device testing
+* iPhone XS Max
+* iPad Pro
+* Hp Laptop 
+* Hp Desktop
 
-### Browser compatibility
+All pages have also been tested on all available screen sizes on google chrome dev tools 
+
+### Browser Compatibility
+Google Chrome
+Microsoft Edge
+
 
 ### Testing user stories
 
@@ -382,8 +450,37 @@ I put my website through the following validation tools:
 
 
 # Deployment
+The website was deployed using GitHub Pages by following these steps:
+
+In the GitHub repository navigate to the Settings tab
+On the left hand menu select Pages
+For the source select Branch: master
+After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at
+https://thephelpster.github.io/CI_PP1_CF/
+
+You can for fork the repository by following these steps:
+
+Go to the GitHub repository
+Click on Fork button in upper right hand corner
+You can clone the repository by following these steps:
+
+Go to the GitHub repository
+Locate the Code button above the list of files and click it
+Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+Open Git Bash
+Change the current working directory to the one where you want the cloned directory
+Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY) 7.Press Enter to create your local clone.
 
 # Credits
+Images and videos not referenced below are owned by the developer.
+
+## Media
+* Images of the campervans are taken from The Campervan Factory website.
+* Video of the BBC Interview is owned by the BBC.
+
+## Code
 
 https://mycolor.space/?hex=%23845EC2&sub=1
 https://fonts.google.com/specimen/Comfortaa
+
+# Acknowledgements
