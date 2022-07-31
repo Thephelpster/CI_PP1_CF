@@ -576,37 +576,45 @@ The website was deployed using GitHub Pages by following these steps:
 
 In the GitHub repository navigate to the Settings tab
 On the left hand menu select Pages
-For the source select Branch: master
+For the source select Branch: main
 After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at
 https://thephelpster.github.io/CI_PP1_CF/
 
-You can for fork the repository by following these steps:
-
-Go to the GitHub repository
-Click on Fork button in upper right hand corner
-You can clone the repository by following these steps:
-
-Go to the GitHub repository
-Locate the Code button above the list of files and click it
-Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
-Open Git Bash
-Change the current working directory to the one where you want the cloned directory
-Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY) 7.Press Enter to create your local clone.
+A Link to the live site: [The Campervan Factory](https://thephelpster.github.io/CI_PP1_CF/)
 
 # Credits
-Images and videos not referenced below are owned by the developer.
+Images, videos and text not referenced below is owned and created by the developer.
+
+## Content
+* The Cover text, background information and reviews were taken from The Campervan Factory website
 
 ## Media
 * Images of the campervans are taken from The Campervan Factory website.
 * Video of the BBC Interview is owned by the BBC.
 
-## Code
+## Code and Design
+* Colorspace - for the colour pallet
 https://mycolor.space/?hex=%23845EC2&sub=1
+
+* Googlefonts - for the font styles
 https://fonts.google.com/specimen/Comfortaa
+
+* Googlemaps - for the google map element added to the iframe
+https://www.google.com/maps/@51.9959798,-2.1395935,17z
+
+* W3schools - for the navbar and carousel bootstrap
+1. https://www.w3schools.com/bootstrap/bootstrap_navbar.asp
+2. https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
+
+* Favicon.io - for converting the logo into a favicon
+https://favicon.io/
+
+* Font Awesome - for the social media fonts used in the footer
+https://fontawesome.com/
 
 # Acknowledgements
 I'd like to thank these people who gave me all the help and support i needed to finish and make this project look as good as it does.
 
 * Mo Shami, my mentor, for all the guidance, help and advice.
-* Kate Cleal, my partner, for designing the 404 page image, the logo image and being my spell checker for all the text.
-* The Campervan Factory, my old workplace, for giving me the inspiration for this website and the images used to bring it to life.
+* Kate Cleal, my partner, for designing the 404 page image, the logo image, being my spell checker for all the text and giving me the time to be able to complete this project.
+* The Campervan Factory, my old workplace, for giving me the inspiration for this website and the images used.
