@@ -21,8 +21,7 @@ Developer : Jamie Phelps
     1. [Design Choices](#design-choices)
     2. [Colour](#colour)
     3. [Fonts](#fonts)
-    4. [Structure](#structure)
-    5. [Wireframes](#wireframes)
+    4. [Wireframes](#wireframes)
 5. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
@@ -366,67 +365,41 @@ I put my website through the following validation tools:
 </details>
 
 ### Mock up
-![Mock Up Image](./assets/images/am-i-responsive.png)
+<details>
+<summary>Am I Responsive</summary>
+<br>
+<img src="./assets/images/am-i-responsive.png" alt="Wave Accessibility 404 Error">
+</details>
 
 ### Performance
 <details>
-<summary>Home Mobile</summary>
+<summary>Home</summary>
 <br>
 <img src="./assets/readme-images/lighthouse-home-mobile.png" alt="lighthouse-home-mobile">
 </details>
 
 <details>
-<summary>Home Desktop</summary>
-<br>
-<img src="./assets/readme-images/lighthouse-home-desktop.png" alt="lighthouse-home-desktop">
-</details>
-
-<details>
-<summary>About Mobile</summary>
+<summary>About</summary>
 <br>
 <img src="./assets/readme-images/lighthouse-about-mobile.png" alt="lighthouse-about-mobile">
 </details>
 
 <details>
-<summary>About Desktop</summary>
-<br>
-<img src="./assets/readme-images/lighthouse-about-desktop.png" alt="lighthouse-about-desktop">
-</details>    
-
-<details>
-<summary>Conversion Mobile</summary>
+<summary>Conversion</summary>
 <br>
 <img src="./assets/readme-images/lighthouse-conversion-mobile.png" alt="lighthouse-conversion-mobile">
 </details>
 
 <details>
-<summary>Conversion Desktop</summary>
-<br>
-<img src="./assets/readme-images/lighthouse-conversion-mobile.png" alt="lighthouse-conversion-desktop">
-</details>
-
-<details>
-<summary>Contact Mobile</summary>
+<summary>Contact</summary>
 <br>
 <img src="./assets/readme-images/lighthouse-contact-mobile.png" alt="lighthouse-contact-mobile">
 </details>
 
 <details>
-<summary>Contact Desktop</summary>
-<br>
-<img src="./assets/readme-images/lighthouse-contact-desktop.png" alt="lighthouse-contact-desktop">
-</details>
-
-<details>
-<summary>Gallery Mobile</summary>
+<summary>Gallery</summary>
 <br>
 <img src="./assets/readme-images/lighthouse-gallery-mobile.png" alt="lighthouse-gallery-mobile">
-</details>
-
-<details>
-<summary>Gallery Desktop</summary>
-<br>
-<img src="./assets/readme-images/lighthouse-gallery-desktop.png" alt="lighthouse-conversion-desktop">
 </details>
 
 ### Device testing
