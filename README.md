@@ -545,10 +545,7 @@ Microsoft Edge
 | Contrast colour error on submit button | Change to colours that are easier to view on background colour|
 | lack of aria label on home button on 404.html page | add aria label to button | 
 | Font too small to be easy to read on small screens | Increase font size using 'vw' sizes |
-| performance of pages slow to load | resize images and change file type to WEBP |
-
-
-
+| performance of pages slow to load | resize images down to better size |
 
 # Deployment
 The website was deployed using GitHub Pages by following these steps:
